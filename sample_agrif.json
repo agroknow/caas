@@ -1,0 +1,90 @@
+{
+"languageBlocks": {
+      "da": {
+          "title": "RΓ¦kkedampning bruger mindre olie"
+      },
+      "en": {
+          "abstract": "Information to practise about the new band-steaming technology and its benefits for horticulture"
+      },
+      "nl": {
+          "keyword": [
+              "Weed management"
+          ]
+      }
+  },
+  "set": "ORGEPRINTS",
+  "origin": { "BRASIL": "XS1960000152"},
+  "controlled": {
+      "type": [
+          {
+              "source": "dcterms",
+              "value": "Newspaper or magazine article"
+          },
+          {
+              "source": "dcterms",
+              "value": "NonPeerReviewed"
+          }
+      ],
+      "thesaurus": [
+          "t1",
+          "t2"
+      ]
+  },
+  "expressions": [
+      {
+          "citation": [
+              {
+                  "title": [
+                      "Bragantia"
+                  ],
+                  "ISSN": [
+                      "0006-8705"
+                  ],
+                  "citationNumber": [
+                      "vol.19 num.unico"
+                  ]
+              }
+          ],
+          "manifestations": [
+              {
+                  "manifestationType": "fullText",
+                  "doi": "D1",
+                  "items": [
+                      {
+                          "isBroken": false,
+                          "url": "http://orgprints.org/9996/1/9996.pdf"
+                      }
+                  ],
+                  "format": [
+                      "application/pdf"
+                  ]
+              },
+              {
+                  "manifestationType": "landingPage",
+                  "ISBN": "D2",
+                  "items": [
+                      {
+                          "isBroken": false,
+                          "url": "http://orgprints.org/9996/"
+                      }
+                  ]
+              }
+          ],
+          "publisher": [
+              {
+           "name": "Instituto Agronômico de Campinas",
+          "date": "1960"
+              }
+          ]
+      }
+  ],
+  "creator": [
+      {
+          "name": "Melander, Bo",
+          "type": "person"
+      },
+      {
+          "name": "Kristensen, Jens Kristian",
+          "type": "person"
+      }
+  ]}
