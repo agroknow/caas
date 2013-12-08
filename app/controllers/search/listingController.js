@@ -7,7 +7,6 @@ listing.controller("listingController", function($rootScope, $scope, $http, $loc
 	*/
 	$rootScope.findElements = function(init)
 	{
-		console.log('find_elements');
 		//enable loading indicator : true/false
 		$scope.loading = true;
 		//enable error message : true/false
@@ -120,13 +119,12 @@ listing.controller("listingController", function($rootScope, $scope, $http, $loc
 	$scope.search = function(query) {
 
 		$http.get(query).success(function(data) {
-			console.log(data);
-
+			
 			/*Add facets*/
 			if($scope.enableFacets) {
 				$scope.inactiveFacets.length = 0;/*clear results*/
 				$scope.inactiveFacets.push(data.facets);
-
+				console.log($scope.inactiveFacets);
 			}
 
 			//Print snippets
@@ -149,7 +147,7 @@ listing.controller("listingController", function($rootScope, $scope, $http, $loc
 		.error(function(error) {
 			    $scope.loading = false;
 			    $scope.error = true;
-			    console.log("--F@ck!n' error on $http.get : " + query);
+			    console.log("--@@@ error on $http.get : " + query);
 		});
 	}
 

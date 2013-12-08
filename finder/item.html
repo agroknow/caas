@@ -12,6 +12,9 @@
 
 <body>
 		<div id="header"></div>
+		<div class="breadcrumb"> 
+			<a href="index.html">Home</a> &gt;<a href="javascript:history.back();"> Search </a> &gt; Item Info
+		</div>
 
 		<form class="form-wrapper cf" action="search.html">
 	        <input name="q" type="text" placeholder="Search here..." required>
@@ -30,9 +33,9 @@
 	                <ul>
 						 <li><span class="label">Abstract : </span> <br> {{item_abstract}}</li>
 						 <li><span class="label">Citation : </span> <br> {{item_citation}}</li>
-						 <li><span class="label">Language: </span> <br> {{item_language}} </li>
+						 <li><span class="label">Language: </span> <br> English </li>
 						 <li><span class="label">Keywords : </span> <br>
-						 	-<a ng-repeat="keys in item_keywords" target="_self" href="search.html?q={{keys}}" >{{keys}}, </a>
+						 	<a ng-repeat="keys in item_keywords" target="_self" href="search.html?q={{keys}}" >{{keys}}, </a>
 						 </li>
 					 </ul>
 
@@ -45,8 +48,10 @@
 					 <h3 id="more_info">More Info</h3>
 					 <ul>
 						 <li><span class="label">Creator: </span> <br> {{item_creators}} </li>
-						 <li><span class="label">Classification: </span> <br> {{item_classification}}</li>
-						 <li><span class="label">Pages: </span> <span ng-repeat="roles in item_roles"> <br> {{roles}} </span></li>
+						 <li><span class="label">Classification: </span> <br> 
+						 	<span ng-repeat="class in item_classification ">{{classif_mapping[class]}}, </span>
+						 </li>
+						 <li><span class="label">Pages: </span> <br> {{item_pages}} </li>
 					 </ul>
 				</article>
 

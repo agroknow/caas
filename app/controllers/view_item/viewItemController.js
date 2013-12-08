@@ -15,7 +15,7 @@ listing.controller("viewItemController", function($scope, $http, $location) {
 	var language_mapping=[], audience_mapping=[];
 	language_mapping['en'] = "English";
 
-	var classif_mapping_file = '../config/classification_mapping.json';
+	var classif_mapping_file = '../config/classification_mapping_min.json';
 	$scope.classif_mapping = []; // contains all the code mappings
 
 	$http.get(classif_mapping_file).success(function(data) {
@@ -82,18 +82,24 @@ listing.controller("viewItemController", function($scope, $http, $location) {
 				languageBlock.abstract !== undefined ? $scope.item_abstract = languageBlock.abstract : $scope.item_abstract ='-';
 
 				//KEYWORDS
-				languageBlock.keyword !== undefined ? $scope.item_keywords = languageBlock.keyword : $scope.item_keywords = '';
+				if(languageBlock.keywords !== undefined) {
+					var keywords = languageBlock.keywords[0].split(';');
+					$scope.item_keywords = keywords;
+				} else {
+					$scope.item_keywords = '-';
+				}
 
 			}
 
 			//CITATION
-			if( thisJson.expressions[0] && thisJson.expressions[0].citation ) {
+			if( thisJson.expressions[0] && thisJson.expressions[0].citation && thisJson.expressions[0].citation[0] ) {
 				$scope.item_citation = '';
+				console.log(thisJson.expressions[0].citation[0]);
 
-				thisJson.expressions[0].citation.title ? $scope.item_citation += thisJson.expressions[0].citation.title[0]+', ' : $scope.item_citation +='';
-				thisJson.expressions[0].citation.ISSN ? $scope.item_citation += thisJson.expressions[0].citation.ISSN[0]+', ' : $scope.item_citation +='';
-				thisJson.expressions[0].citation.citationNumber ? $scope.item_citation += thisJson.expressions[0].citation.citationNumber[0]+', ' : $scope.item_citation +='';
-				thisJson.expressions[0].citation.citationChronology ? $scope.item_citation += thisJson.expressions[0].citation.citationChronology[0] : $scope.item_citation +='';
+				thisJson.expressions[0].citation[0].title ? $scope.item_citation += thisJson.expressions[0].citation[0].title[0]+', ' : $scope.item_citation +='';
+				thisJson.expressions[0].citation[0].ISSN ? $scope.item_citation += thisJson.expressions[0].citation[0].ISSN[0]+', ' : $scope.item_citation +='';
+				thisJson.expressions[0].citation[0].citationNumber ? $scope.item_citation += thisJson.expressions[0].citation[0].citationNumber[0]+', ' : $scope.item_citation +='';
+				thisJson.expressions[0].citation[0].citationChronology ? $scope.item_citation += thisJson.expressions[0].citation[0].citationChronology[0] : $scope.item_citation +='';
 				
 
 			} else {
@@ -103,12 +109,15 @@ listing.controller("viewItemController", function($scope, $http, $location) {
 			//LANGUAGE
 			thisJson.expressions[0].language !== undefined ? $scope.item_language = language_mapping[thisJson.expressions[0].language] : $scope.item_language = '-';
 
+			//PAGES
+			thisJson.expressions[0].manifestations[0].size !== undefined ? $scope.item_pages = thisJson.expressions[0].manifestations[0].size : $scope.item_pages = '-';
+			console.log(thisJson.expressions[0].manifestations[0]);
 			//CREATOR
-			if( thisJson.creator ) {
+			if( thisJson.creators ) {
 				$scope.item_creators = ''; 
-				for( i in thisJson.creator) {
-					$scope.item_creators += thisJson.creator[i];
-					if(i != thisJson.creator.length-1) {
+				for( i in thisJson.creators) {
+					$scope.item_creators += thisJson.creators[i].name;
+					if(i != thisJson.creators.length-1) {
 						$scope.item_creators += ', ';
 					}
 				}
@@ -117,15 +126,8 @@ listing.controller("viewItemController", function($scope, $http, $location) {
 			}
 
 			//CLASSIFICATION
-			if(thisJson.controlled && thisJson.controlled.thesaurus) {
-				$scope.item_classification = ''; 
-				for( j in thisJson.controlled.thesaurus ) {
-					$scope.item_classification += $scope.classif_mapping[thisJson.controlled.thesaurus[j]];
-					if(j != thisJson.controlled.thesaurus.length-1) {
-						$scope.item_classification += ', ';
-					}
-
-				}
+			if(thisJson.controlled && thisJson.controlled.classification && thisJson.controlled.classification.CCL) {
+				$scope.item_classification = thisJson.controlled.classification.CCL.split(',');
 			} else {
 				$scope.item_classification = '-';
 			}

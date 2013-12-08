@@ -1,1 +1,26 @@
-{"baseUrl":"http://54.228.180.124:8080/search-api/v1/agrif?","enableFacets":true,"enablePaginationBottom":true,"enablePaginationTop":true,"facets":["citationTitle","citationNumber","language"],"limitPagination":10,"limit_facets":{},"limit_facets_number":5,"mappings_file":"../config/facets_mappings.json","maxTextLength":300,"pageSize":10,"selectedLanguage":"en","snippetElements":["title","description"]}
+{
+  "baseUrl": "http://54.228.180.124:8080/search-api/v1/agrif?",
+  "enableFacets": true,
+  "enablePaginationBottom": false,
+  "enablePaginationTop": false,
+  "facets": [
+    "expressions.citation.title",
+    "citationNumber",
+    "language",
+    "citationChronology",
+    "controlled.classification.CCL"
+  ],
+  "limitPagination": 10,
+  "limit_facets": {
+  	"set":["caas"]
+  },
+  "limit_facets_number": 10,
+  "mappings_file": "../config/facets_mappings.json",
+  "maxTextLength": 300,
+  "pageSize": 10,
+  "selectedLanguage": "en",
+  "snippetElements": [
+    "title",
+    "abstract"
+  ]
+}

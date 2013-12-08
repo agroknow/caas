@@ -110,13 +110,13 @@ listing.controller("mainController", function($rootScope, $scope, $http, $locati
 	$scope.init_finder = function() {
 		//store the mapping for human reading languages
 		$http.get(mappings_file).success(function(data) {
-		        for(i in data) { // i = providers, languages, etc...
-					$scope.mapping[i] = [];
-		        	for(j in data[i]) {
-		        		$scope.mapping[i][data[i][j].machine] = data[i][j].human;
-		        	}
-		        }
-		    });
+	        for(i in data) { // i = providers, languages, etc...
+				$scope.mapping[i] = [];
+	        	for(j in data[i]) {
+	        		$scope.mapping[i][data[i][j].machine] = data[i][j].human;
+	        	}
+	        }
+	    });
 	};
 
 

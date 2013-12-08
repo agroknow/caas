@@ -60,6 +60,19 @@ body{
 	}
 }
 
+.breadcrumb {
+	max-width: 1010px;
+	margin:10px auto;
+	border-top: 1px solid @light_raf;
+	border-bottom: 1px solid @light_raf;
+
+	a {
+		font-size: medium;
+		color: @navy_blue;
+		text-decoration: none;
+	}
+}
+
 .title {
 	text-align: center;
 	margin:0px auto;
@@ -520,6 +533,7 @@ body{
 			border: none;
 			color: @text_color_2;
 			background-color: @light_raf;
+			float:right;
 			.rounded-corners(3px);
 
 			&:hover{

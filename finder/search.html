@@ -12,6 +12,9 @@
 
 <body>
 		<div id="header"></div>
+		<div class="breadcrumb"> 
+			<a href="index.html">Home</a> &gt; Search
+		</div>
 
 		<!-- Main div that contains the listing, the facets, the search field.
 			the pagination and the informative messages. -->
@@ -34,7 +37,7 @@
 
 		            		<!-- 'facet' is the actual facet name and term.term is the machine name for the term -->
 			            	<a ng-repeat="term in inactiveFacets[0][facet.toString()].terms" class="child" href="javascript:;" ng-click="selectFacet(term.term, facet, term.count)">
-			            		<span class="value">{{term.term}} {{ mapping[facet][term.term] }}</span>
+			            		<span class="value">{{ mapping[facet][term.term] || term.term }}</span>
 			            		<span class="count">{{ term.count }}</span>
 			            	</a>
 
@@ -52,7 +55,7 @@
 		             <div ng-show="enableFacets" class="facets row">
 		            	<div class="facet_title" >Active facets</div>
 		            	<div ng-repeat="links in activeFacets" >
-		            		<a href="javascript:;" ng-click="deselectFacet(links)">{{links.term}} <span class="remove_facet"> x </span></a>
+		            		<a href="javascript:;" ng-click="deselectFacet(links)">{{mapping[links.facet][links.term] || links.term}} <span class="remove_facet"> x </span></a>
 	            		</div>
 		            </div>
 	            </div>
@@ -91,8 +94,8 @@
 
 	            <!-- results -->
 		            	<li class="snippet" ng-repeat="result in filtered = (results | filter:filterResults) ">
-				            <b>Title:</b>{{result.title}}
-							<br> <b>Description:</b> {{result.description}}
+				            <b>Title:</b> &nbsp; {{result.title || "-"}}
+							<br> <b>Abstract :</b> &nbsp; {{result.abstract || "-" }}
 							<br> <a class="view_more" target="_self" href="item.html?set={{result.set}}&id={{result.id}}"> View More </a>
 			            </li>
 		            </ul>
