@@ -1,0 +1,1701 @@
+{"classification":[
+{"code":"A811","value":"Study and Research of Marxism, Leninism, Maoism & Deng Xiaoping Theory"}
+,{"code":"A811.2","value":"Study and Research of Marxism, Leninism, Maoism & Deng Xiaoping Theory"}
+,{"code":"B152","value":"Philosophy (Worldwide)"}
+,{"code":"B842","value":"Cognitive science"}
+,{"code":"B842.6","value":"Cognitive science"}
+,{"code":"B844.1","value":"Cognitive science"}
+,{"code":"C912.82","value":"Sociology"}
+,{"code":"C913.6","value":"Sociology"}
+,{"code":"C916","value":"Sociology"}
+,{"code":"C93-0","value":"Sociology"}
+,{"code":"C931.4","value":"Sociology"}
+,{"code":"C931.46","value":"Sociology"}
+,{"code":"C933","value":"Sociology"}
+,{"code":"C934","value":"Sociology"}
+,{"code":"C962","value":"Sociology"}
+,{"code":"C964.2","value":"Sociology"}
+,{"code":"D082","value":"Political theory"}
+,{"code":"D262.3","value":"Communist Party of China"}
+,{"code":"D267","value":"Communist Party of China"}
+,{"code":"D267.6","value":"Communist Party of China"}
+,{"code":"D412.6","value":"Labor, Peasant, Youth, Female Organizations and Movements"}
+,{"code":"D422.6","value":"Labor, Peasant, Youth, Female Organizations and Movements"}
+,{"code":"D422.7","value":"Labor, Peasant, Youth, Female Organizations and Movements"}
+,{"code":"D523.2","value":"Politics (worldwide)"}
+,{"code":"D523","value":"Politics (worldwide)"}
+,{"code":"D61","value":"Politics in China"}
+,{"code":"D621.5","value":"Politics in China"}
+,{"code":"D625","value":"Politics in China"}
+,{"code":"D630","value":"Politics in China"}
+,{"code":"D632.1","value":"Politics in China"}
+,{"code":"D632.4","value":"Politics in China"}
+,{"code":"D632.5","value":"Politics in China"}
+,{"code":"D632.9","value":"Politics in China"}
+,{"code":"D64","value":"Politics in China"}
+,{"code":"D669.6","value":"Politics in China"}
+,{"code":"D731.3","value":"Politics in individual Countries"}
+,{"code":"D820","value":"Diplomacy, International relations"}
+,{"code":"D90","value":"Law"}
+,{"code":"D90-051","value":"Law"}
+,{"code":"D916","value":"Law"}
+,{"code":"D922.1","value":"Law"}
+,{"code":"D922.3","value":"Law"}
+,{"code":"D922.52","value":"Law"}
+,{"code":"D922.6","value":"Law"}
+,{"code":"D922.17","value":"Law"}
+,{"code":"D923","value":"Law"}
+,{"code":"D923.4","value":"Law"}
+,{"code":"D923.41","value":"Law"}
+,{"code":"D923.8","value":"Law"}
+,{"code":"D923.9","value":"Law"}
+,{"code":"D924","value":"Law"}
+,{"code":"D924.1","value":"Law"}
+,{"code":"D924.3","value":"Law"}
+,{"code":"D924.392","value":"Law"}
+,{"code":"D925.13","value":"Law"}
+,{"code":"D926.3","value":"Law"}
+,{"code":"D926.7","value":"Law"}
+,{"code":"D971.2","value":"Law"}
+,{"code":"D997.9","value":"Law"}
+,{"code":"E23","value":"Military in China"}
+,{"code":"E234","value":"Military in China"}
+,{"code":"E91","value":"military Technology"}
+,{"code":"F0","value":"Economics"}
+,{"code":"F014.1","value":"Economics"}
+,{"code":"F015","value":"Economics"}
+,{"code":"F016","value":"Economics"}
+,{"code":"F016-4","value":"Economics"}
+,{"code":"F045.5","value":"Economics"}
+,{"code":"F49","value":"Economics"}
+,{"code":"F062.2","value":"Economics"}
+,{"code":"F062.4","value":"Economics"}
+,{"code":"F069.9","value":"Economics"}
+,{"code":"F091.3","value":"Economics"}
+,{"code":"F114.46","value":"Economics, Economic history and Economic geography of individual countries"}
+,{"code":"F120.3","value":"Economics, Economic history and Economic geography of individual countries"}
+,{"code":"F121.2","value":"Economics, Economic history and Economic geography of individual countries"}
+,{"code":"F121.3","value":"Economics, Economic history and Economic geography of individual countries"}
+,{"code":"F123.6","value":"Economics, Economic history and Economic geography of individual countries"}
+,{"code":"F123.7","value":"Economics, Economic history and Economic geography of individual countries"}
+,{"code":"F123.9","value":"Economics, Economic history and Economic geography of individual countries"}
+,{"code":"F124.3","value":"Economics, Economic history and Economic geography of individual countries"}
+,{"code":"F124","value":"Economics, Economic history and Economic geography of individual countries"}
+,{"code":"F124.8","value":"Economics, Economic history and Economic geography of individual countries"}
+,{"code":"F125","value":"Economics, Economic history and Economic geography of individual countries"}
+,{"code":"F127","value":"Economics, Economic history and Economic geography of individual countries"}
+,{"code":"F135.1","value":"Economics, Economic history and Economic geography of individual countries"}
+,{"code":"F203","value":"Economic Planning and Management"}
+,{"code":"F204","value":"Economic Planning and Management"}
+,{"code":"F205","value":"Economic Planning and Management"}
+,{"code":"F206","value":"Economic Planning and Management"}
+,{"code":"F224.32","value":"Economic Planning and Management"}
+,{"code":"F224","value":"Economic Planning and Management"}
+,{"code":"F230-4","value":"Economic Planning and Management"}
+,{"code":"F233","value":"Economic Planning and Management"}
+,{"code":"F239.4","value":"Economic Planning and Management"}
+,{"code":"F249.2","value":"Economic Planning and Management"}
+,{"code":"F249.26","value":"Economic Planning and Management"}
+,{"code":"F249.27","value":"Economic Planning and Management"}
+,{"code":"F252","value":"Economic Planning and Management"}
+,{"code":"F253.9","value":"Economic Planning and Management"}
+,{"code":"F252-4","value":"Economic Planning and Management"}
+,{"code":"F259.2","value":"Economic Planning and Management"}
+,{"code":"F259.27","value":"Economic Planning and Management"}
+,{"code":"F270","value":"Economic Planning and Management"}
+,{"code":"F271","value":"Economic Planning and Management"}
+,{"code":"F272.91","value":"Economic Planning and Management"}
+,{"code":"F270.7","value":"Economic Planning and Management"}
+,{"code":"F272.92","value":"Economic Planning and Management"}
+,{"code":"F272.92-4","value":"Economic Planning and Management"}
+,{"code":"F272","value":"Economic Planning and Management"}
+,{"code":"F273","value":"Economic Planning and Management"}
+,{"code":"F273.1","value":"Economic Planning and Management"}
+,{"code":"F273.2","value":"Economic Planning and Management"}
+,{"code":"F273.4","value":"Economic Planning and Management"}
+,{"code":"F273.7","value":"Economic Planning and Management"}
+,{"code":"F274","value":"Economic Planning and Management"}
+,{"code":"F275","value":"Economic Planning and Management"}
+,{"code":"F275.1","value":"Economic Planning and Management"}
+,{"code":"F275.3","value":"Economic Planning and Management"}
+,{"code":"F276.1","value":"Economic Planning and Management"}
+,{"code":"F276.1","value":"Economic Planning and Management"}
+,{"code":"F276.3","value":"Economic Planning and Management"}
+,{"code":"F276.42","value":"Economic Planning and Management"}
+,{"code":"F276.43","value":"Economic Planning and Management"}
+,{"code":"F276.44","value":"Economic Planning and Management"}
+,{"code":"F276.5","value":"Economic Planning and Management"}
+,{"code":"F276.6","value":"Economic Planning and Management"}
+,{"code":"F276.7","value":"Economic Planning and Management"}
+,{"code":"F276.8","value":"Economic Planning and Management"}
+,{"code":"F279.2","value":"Economic Planning and Management"}
+,{"code":"F279.27","value":"Economic Planning and Management"}
+,{"code":"F279.351","value":"Economic Planning and Management"}
+,{"code":"F284","value":"Economic Planning and Management"}
+,{"code":"F285","value":"Economic Planning and Management"}
+,{"code":"F293.2","value":"Economic Planning and Management"}
+,{"code":"F293.3","value":"Economic Planning and Management"}
+,{"code":"F293.31","value":"Economic Planning and Management"}
+,{"code":"F293.33","value":"Economic Planning and Management"}
+,{"code":"F299.2","value":"Economic Planning and Management"}
+,{"code":"F299.27","value":"Economic Planning and Management"}
+,{"code":"F301","value":"Agricultural Economics"}
+,{"code":"F301.1","value":"Agricultural Economics"}
+,{"code":"F301.2","value":"Agricultural Economics"}
+,{"code":"F301.21","value":"Agricultural Economics"}
+,{"code":"F301.24","value":"Agricultural Economics"}
+,{"code":"F301.24","value":"Agricultural Economics"}
+,{"code":"F301","value":"Agricultural Economics"}
+,{"code":"F301-4","value":"Agricultural Economics"}
+,{"code":"F302.6","value":"Agricultural Economics"}
+,{"code":"F316.11","value":"Agricultural Economics"}
+,{"code":"F316.4","value":"Agricultural Economics"}
+,{"code":"F320","value":"Agricultural Economics"}
+,{"code":"F320.1","value":"Agricultural Economics"}
+,{"code":"F320.3","value":"Agricultural Economics"}
+,{"code":"F320-4","value":"Agricultural Economics"}
+,{"code":"F321","value":"Agricultural Economics"}
+,{"code":"F321.1","value":"Agricultural Economics"}
+,{"code":"F321.1","value":"Agricultural Economics"}
+,{"code":"F322","value":"Agricultural Economics"}
+,{"code":"F323.211","value":"Agricultural Economics"}
+,{"code":"F323.213","value":"Agricultural Economics"}
+,{"code":"F323.3","value":"Agricultural Economics"}
+,{"code":"F323.5","value":"Agricultural Economics"}
+,{"code":"F323.6","value":"Agricultural Economics"}
+,{"code":"F323.6","value":"Agricultural Economics"}
+,{"code":"F323.7","value":"Agricultural Economics"}
+,{"code":"F323.8","value":"Agricultural Economics"}
+,{"code":"F323.89","value":"Agricultural Economics"}
+,{"code":"F324.3","value":"Agricultural Economics"}
+,{"code":"F324.6","value":"Agricultural Economics"}
+,{"code":"F325.14","value":"Agricultural Economics"}
+,{"code":"F326.1","value":"Agricultural Economics"}
+,{"code":"F326.11","value":"Agricultural Economics"}
+,{"code":"F326.12","value":"Agricultural Economics"}
+,{"code":"F326.13","value":"Agricultural Economics"}
+,{"code":"F326.2","value":"Agricultural Economics"}
+,{"code":"F326.23","value":"Agricultural Economics"}
+,{"code":"F326.27","value":"Agricultural Economics"}
+,{"code":"F326.3","value":"Agricultural Economics"}
+,{"code":"F326.4","value":"Agricultural Economics"}
+,{"code":"F326.5","value":"Agricultural Economics"}
+,{"code":"F326.6","value":"Agricultural Economics"}
+,{"code":"F327","value":"Agricultural Economics"}
+,{"code":"F371.2","value":"Agricultural Economics"}
+,{"code":"F406","value":"Industrial Economics"}
+,{"code":"F406.72","value":"Industrial Economics"}
+,{"code":"F416.1","value":"Industrial Economics"}
+,{"code":"F416.2","value":"Industrial Economics"}
+,{"code":"F416.63","value":"Industrial Economics"}
+,{"code":"F416.72","value":"Industrial Economics"}
+,{"code":"F416.92","value":"Industrial Economics"}
+,{"code":"F426.2","value":"Industrial Economics"}
+,{"code":"F426.471","value":"Industrial Economics"}
+,{"code":"F426.6","value":"Industrial Economics"}
+,{"code":"F426.22","value":"Industrial Economics"}
+,{"code":"F426.21","value":"Industrial Economics"}
+,{"code":"F426.61","value":"Industrial Economics"}
+,{"code":"F426.672","value":"Industrial Economics"}
+,{"code":"F426.71","value":"Industrial Economics"}
+,{"code":"F426.72","value":"Industrial Economics"}
+,{"code":"F426.8","value":"Industrial Economics"}
+,{"code":"F426.82","value":"Industrial Economics"}
+,{"code":"F426.88","value":"Industrial Economics"}
+,{"code":"F426.91","value":"Industrial Economics"}
+,{"code":"F427","value":"Industrial Economics"}
+,{"code":"F429","value":"Industrial Economics"}
+,{"code":"F512.3","value":"Economics of Transport"}
+,{"code":"F532.6","value":"Economics of Transport"}
+,{"code":"F540.58","value":"Economics of Transport"}
+,{"code":"F562","value":"Economics of Transport"}
+,{"code":"F572","value":"Economics of Transport"}
+,{"code":"F590.1","value":"Economics of Transport"}
+,{"code":"F592","value":"Economics of Transport"}
+,{"code":"F592.6","value":"Economics of Transport"}
+,{"code":"F592.7","value":"Economics of Transport"}
+,{"code":"F592.99","value":"Economics of Transport"}
+,{"code":"F592","value":"Economics of Transport"}
+,{"code":"F626","value":"Economics of Postal and Cable Services"}
+,{"code":"F713.35","value":"Economics of Commerce"}
+,{"code":"F713.36","value":"Economics of Commerce"}
+,{"code":"F713.36-4","value":"Economics of Commerce"}
+,{"code":"F713.8","value":"Economics of Commerce"}
+,{"code":"F719","value":"Economics of Commerce"}
+,{"code":"F719.2","value":"Economics of Commerce"}
+,{"code":"F721","value":"Economics of Commerce"}
+,{"code":"F721","value":"Economics of Commerce"}
+,{"code":"F724.6","value":"Economics of Commerce"}
+,{"code":"F726","value":"Economics of Commerce"}
+,{"code":"F740.41","value":"Economics of Commerce"}
+,{"code":"F752","value":"Economics of Commerce"}
+,{"code":"F752.5","value":"Economics of Commerce"}
+,{"code":"F752.6","value":"Economics of Commerce"}
+,{"code":"F752.61","value":"Economics of Commerce"}
+,{"code":"F752.62","value":"Economics of Commerce"}
+,{"code":"F752.7","value":"Economics of Commerce"}
+,{"code":"F752","value":"Economics of Commerce"}
+,{"code":"F810.6","value":"Finance, Banking"}
+,{"code":"F812.42","value":"Finance, Banking"}
+,{"code":"F812.43","value":"Finance, Banking"}
+,{"code":"F812.45","value":"Finance, Banking"}
+,{"code":"F812.7","value":"Finance, Banking"}
+,{"code":"F812.8","value":"Finance, Banking"}
+,{"code":"F812","value":"Finance, Banking"}
+,{"code":"F830.91","value":"Finance, Banking"}
+,{"code":"F831.6","value":"Finance, Banking"}
+,{"code":"F831.7","value":"Finance, Banking"}
+,{"code":"F832","value":"Finance, Banking"}
+,{"code":"F832.0","value":"Finance, Banking"}
+,{"code":"F832.1","value":"Finance, Banking"}
+,{"code":"F832.2","value":"Finance, Banking"}
+,{"code":"F832.22","value":"Finance, Banking"}
+,{"code":"F832.3","value":"Finance, Banking"}
+,{"code":"F832.35","value":"Finance, Banking"}
+,{"code":"F832.48","value":"Finance, Banking"}
+,{"code":"F832.5","value":"Finance, Banking"}
+,{"code":"F832.51","value":"Finance, Banking"}
+,{"code":"F832.6","value":"Finance, Banking"}
+,{"code":"F832.7","value":"Finance, Banking"}
+,{"code":"F833.13","value":"Finance, Banking"}
+,{"code":"F833.51","value":"Finance, Banking"}
+,{"code":"F837.12","value":"Finance, Banking"}
+,{"code":"F840.6","value":"Finance, Banking"}
+,{"code":"G04","value":"Philosophy of Culture"}
+,{"code":"G122","value":"Culture"}
+,{"code":"G122","value":"Culture"}
+,{"code":"G122","value":"Culture"}
+,{"code":"G122","value":"Culture"}
+,{"code":"G122","value":"Culture"}
+,{"code":"G122","value":"Culture"}
+,{"code":"G124","value":"Culture"}
+,{"code":"G127","value":"Culture"}
+,{"code":"G203","value":"Knowledge transmission"}
+,{"code":"G203","value":"Knowledge transmission"}
+,{"code":"G206","value":"Knowledge transmission"}
+,{"code":"G206.3","value":"Knowledge transmission"}
+,{"code":"G206","value":"Knowledge transmission"}
+,{"code":"G210","value":"Knowledge transmission"}
+,{"code":"G212","value":"Knowledge transmission"}
+,{"code":"G212.2","value":"Knowledge transmission"}
+,{"code":"G219.24","value":"Knowledge transmission"}
+,{"code":"G219.29","value":"Knowledge transmission"}
+,{"code":"G221","value":"Knowledge transmission"}
+,{"code":"G230.7","value":"Knowledge transmission"}
+,{"code":"G231","value":"Knowledge transmission"}
+,{"code":"G232","value":"Knowledge transmission"}
+,{"code":"G232","value":"Knowledge transmission"}
+,{"code":"G232.2","value":"Knowledge transmission"}
+,{"code":"G235","value":"Knowledge transmission"}
+,{"code":"G237.5","value":"Knowledge transmission"}
+,{"code":"G239.2","value":"Knowledge transmission"}
+,{"code":"G239.22","value":"Knowledge transmission"}
+,{"code":"G250","value":"Knowledge transmission"}
+,{"code":"G250.7","value":"Knowledge transmission"}
+,{"code":"G250.73","value":"Knowledge transmission"}
+,{"code":"G250.74","value":"Knowledge transmission"}
+,{"code":"G250.76","value":"Knowledge transmission"}
+,{"code":"G251","value":"Knowledge transmission"}
+,{"code":"G252","value":"Knowledge transmission"}
+,{"code":"G252.1","value":"Knowledge transmission"}
+,{"code":"G252.6","value":"Knowledge transmission"}
+,{"code":"G252.62","value":"Knowledge transmission"}
+,{"code":"G252.7","value":"Knowledge transmission"}
+,{"code":"G252","value":"Knowledge transmission"}
+,{"code":"G253","value":"Knowledge transmission"}
+,{"code":"G254.3","value":"Knowledge transmission"}
+,{"code":"G255.2","value":"Knowledge transmission"}
+,{"code":"G255.71","value":"Knowledge transmission"}
+,{"code":"G255.75","value":"Knowledge transmission"}
+,{"code":"G258.2","value":"Knowledge transmission"}
+,{"code":"G258.22","value":"Knowledge transmission"}
+,{"code":"G258.41","value":"Knowledge transmission"}
+,{"code":"G258.6","value":"Knowledge transmission"}
+,{"code":"G258.69","value":"Knowledge transmission"}
+,{"code":"G258.7","value":"Knowledge transmission"}
+,{"code":"G259.2","value":"Knowledge transmission"}
+,{"code":"G259.29","value":"Knowledge transmission"}
+,{"code":"G271","value":"Knowledge transmission"}
+,{"code":"G275.9","value":"Knowledge transmission"}
+,{"code":"G276","value":"Knowledge transmission"}
+,{"code":"G279.29","value":"Knowledge transmission"}
+,{"code":"G301","value":"Science, Scientific Research"}
+,{"code":"G302","value":"Science, Scientific Research"}
+,{"code":"G306","value":"Science, Scientific Research"}
+,{"code":"G307","value":"Science, Scientific Research"}
+,{"code":"G311","value":"Science, Scientific Research"}
+,{"code":"G316","value":"Science, Scientific Research"}
+,{"code":"G321","value":"Science, Scientific Research"}
+,{"code":"G322","value":"Science, Scientific Research"}
+,{"code":"G322.25","value":"Science, Scientific Research"}
+,{"code":"G322.7","value":"Science, Scientific Research"}
+,{"code":"G323.82","value":"Science, Scientific Research"}
+,{"code":"G350","value":"Science, Scientific Research"}
+,{"code":"G351","value":"Science, Scientific Research"}
+,{"code":"G353","value":"Science, Scientific Research"}
+,{"code":"G353.1","value":"Science, Scientific Research"}
+,{"code":"G354","value":"Science, Scientific Research"}
+,{"code":"G359.2","value":"Science, Scientific Research"}
+,{"code":"G359.351","value":"Science, Scientific Research"}
+,{"code":"G434","value":"Education"}
+,{"code":"G443","value":"Education"}
+,{"code":"G522.3","value":"Education in individual Countries"}
+,{"code":"G522.3","value":"Education in individual Countries"}
+,{"code":"G525.5","value":"Education in individual Countries"}
+,{"code":"G623.2","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G623.5","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G625.1","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G633.34","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G633.41","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G633.6","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G633.67","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G633.8","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G633.96","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G634.91","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G640","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G641","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G642","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G642.0","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G642.4","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G642.477","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G643","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G645.1","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G645.5","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G645.5","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G647","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G647.32","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G647.38","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G647.5","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G647","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G649.2","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G649.339","value":"Education (Primary, Secondary, Tertiary)"}
+,{"code":"G711","value":"Education (specialized)"}
+,{"code":"G712.4","value":"Education (specialized)"}
+,{"code":"G715.1","value":"Education (specialized)"}
+,{"code":"G717","value":"Education (specialized)"}
+,{"code":"G717.32","value":"Education (specialized)"}
+,{"code":"G717.4","value":"Education (specialized)"}
+,{"code":"G719.2","value":"Education (specialized)"}
+,{"code":"G725","value":"Education (specialized)"}
+,{"code":"G80-05","value":"Sports"}
+,{"code":"G804.49","value":"Sports"}
+,{"code":"G807.4","value":"Sports"}
+,{"code":"G807.4","value":"Sports"}
+,{"code":"G812.42","value":"Sports"}
+,{"code":"G886.9","value":"Sports"}
+,{"code":"H004","value":"Linguistics"}
+,{"code":"H059","value":"Linguistics"}
+,{"code":"H193.6","value":"Chinese language"}
+,{"code":"H146","value":"Chinese language"}
+,{"code":"H314","value":"English language"}
+,{"code":"H315.9","value":"English language"}
+,{"code":"H319","value":"English language"}
+,{"code":"H319.1","value":"English language"}
+,{"code":"H36","value":"Japanese language"}
+,{"code":"I046","value":"Literary Theory"}
+,{"code":"I207.3","value":"Literature in China"}
+,{"code":"I207.42","value":"Literature in China"}
+,{"code":"I207.6","value":"Literature in China"}
+,{"code":"I207.7","value":"Literature in China"}
+,{"code":"I712.074","value":"Literature in America"}
+,{"code":"J409.2","value":"Photography"}
+,{"code":"J41","value":"Photography"}
+,{"code":"J933","value":"Cinematography, Television"}
+,{"code":"J952","value":"Cinematography, Television"}
+,{"code":"K092","value":"Historical Theory"}
+,{"code":"K248","value":"History of China"}
+,{"code":"K25","value":"History of China"}
+,{"code":"K256.7","value":"History of China"}
+,{"code":"K26","value":"History of China"}
+,{"code":"K826.14","value":"Biography, Archaeology"}
+,{"code":"K837.12","value":"Biography, Archaeology"}
+,{"code":"K854.3","value":"Biography, Archaeology"}
+,{"code":"K901","value":"Geography"}
+,{"code":"K901.6","value":"Geography"}
+,{"code":"N09","value":"Theory and Methodology"}
+,{"code":"N941.7","value":"Minor Sciences"}
+,{"code":"N941.4","value":"Minor Sciences"}
+,{"code":"N941.5","value":"Minor Sciences"}
+,{"code":"N945.1","value":"Minor Sciences"}
+,{"code":"N945.12","value":"Minor Sciences"}
+,{"code":"O144","value":"Mathematics"}
+,{"code":"O151.21","value":"Mathematics"}
+,{"code":"O152.1","value":"Mathematics"}
+,{"code":"O153.3","value":"Mathematics"}
+,{"code":"O156.4","value":"Mathematics"}
+,{"code":"O157.5","value":"Mathematics"}
+,{"code":"O159","value":"Mathematics"}
+,{"code":"O172.2","value":"Mathematics"}
+,{"code":"O174.14","value":"Mathematics"}
+,{"code":"O174.52","value":"Mathematics"}
+,{"code":"O175","value":"Mathematics"}
+,{"code":"O175.2","value":"Mathematics"}
+,{"code":"O175.8","value":"Mathematics"}
+,{"code":"O177","value":"Mathematics"}
+,{"code":"O177.2","value":"Mathematics"}
+,{"code":"O177.91","value":"Mathematics"}
+,{"code":"O211.6","value":"Applied Mathematics"}
+,{"code":"O211.67","value":"Applied Mathematics"}
+,{"code":"O224","value":"Applied Mathematics"}
+,{"code":"O224","value":"Applied Mathematics"}
+,{"code":"O231","value":"Applied Mathematics"}
+,{"code":"O241.6","value":"Applied Mathematics"}
+,{"code":"O241.8","value":"Applied Mathematics"}
+,{"code":"O241.82","value":"Applied Mathematics"}
+,{"code":"O242.1","value":"Applied Mathematics"}
+,{"code":"O347.41","value":"Mechanics"}
+,{"code":"O35","value":"Mechanics"}
+,{"code":"O359","value":"Mechanics"}
+,{"code":"O413.1","value":"Physics"}
+,{"code":"O415.5","value":"Physics"}
+,{"code":"O431.2","value":"Physics"}
+,{"code":"O433.4","value":"Physics"}
+,{"code":"O436.1","value":"Physics"}
+,{"code":"O451","value":"Physics"}
+,{"code":"O461.2","value":"Physics"}
+,{"code":"O482.31","value":"Physics"}
+,{"code":"O53","value":""}
+,{"code":"O551.3","value":""}
+,{"code":"O552.3","value":""}
+,{"code":"O561.1","value":""}
+,{"code":"O562.32","value":""}
+,{"code":"O611.3","value":"Chemistry"}
+,{"code":"O614.411","value":"Chemistry"}
+,{"code":"O614.243","value":"Chemistry"}
+,{"code":"O615","value":"Chemistry"}
+,{"code":"O621.13","value":"Chemistry"}
+,{"code":"O621.3","value":"Chemistry"}
+,{"code":"O626.1","value":"Chemistry"}
+,{"code":"O626.41","value":"Chemistry"}
+,{"code":"O627.12","value":"Chemistry"}
+,{"code":"O627.2","value":"Chemistry"}
+,{"code":"O627.41","value":"Chemistry"}
+,{"code":"O629.7","value":"Chemistry"}
+,{"code":"O631.3","value":"Chemistry"}
+,{"code":"O636.1","value":"Chemistry"}
+,{"code":"O6-4","value":"Chemistry"}
+,{"code":"O641.4","value":"Chemistry"}
+,{"code":"O643.32","value":"Chemistry"}
+,{"code":"O643.36","value":"Chemistry"}
+,{"code":"O647.31","value":"Chemistry"}
+,{"code":"O648.17","value":"Chemistry"}
+,{"code":"O651","value":"Chemistry"}
+,{"code":"O657.1","value":"Chemistry"}
+,{"code":"O657.15","value":"Chemistry"}
+,{"code":"O657.3","value":"Chemistry"}
+,{"code":"O657.31","value":"Chemistry"}
+,{"code":"O657.32","value":"Chemistry"}
+,{"code":"O657.63","value":"Chemistry"}
+,{"code":"O657.71","value":"Chemistry"}
+,{"code":"O657.72","value":"Chemistry"}
+,{"code":"O658.9","value":"Chemistry"}
+,{"code":"P208","value":"Traditional Chinese Medicine"}
+,{"code":"P228.4","value":"Traditional Chinese Medicine"}
+,{"code":"P231","value":"Traditional Chinese Medicine"}
+,{"code":"P237","value":"Traditional Chinese Medicine"}
+,{"code":"P2-4","value":"Traditional Chinese Medicine"}
+,{"code":"P283","value":"Traditional Chinese Medicine"}
+,{"code":"P283.1","value":"Traditional Chinese Medicine"}
+,{"code":"P3","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"P33","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"P314.1","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"P315","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"P332","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"P332.4","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"P333.1","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"P333","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"P338","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"P343.3","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"P343.6","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"P4","value":"Clinical Medicine"}
+,{"code":"P404","value":"Clinical Medicine"}
+,{"code":"P413","value":"Clinical Medicine"}
+,{"code":"P415.12","value":"Clinical Medicine"}
+,{"code":"P416","value":"Clinical Medicine"}
+,{"code":"P422.11","value":"Clinical Medicine"}
+,{"code":"P426.5","value":"Clinical Medicine"}
+,{"code":"P426.6","value":"Clinical Medicine"}
+,{"code":"P426.614","value":"Clinical Medicine"}
+,{"code":"P427.32","value":"Clinical Medicine"}
+,{"code":"P429","value":"Clinical Medicine"}
+,{"code":"P434","value":"Clinical Medicine"}
+,{"code":"P444","value":"Clinical Medicine"}
+,{"code":"P445","value":"Clinical Medicine"}
+,{"code":"P445.4","value":"Clinical Medicine"}
+,{"code":"P49","value":"Clinical Medicine"}
+,{"code":"P456","value":"Clinical Medicine"}
+,{"code":"P457.6","value":"Clinical Medicine"}
+,{"code":"P458.12","value":"Clinical Medicine"}
+,{"code":"P458.121.1","value":"Clinical Medicine"}
+,{"code":"P461.2","value":"Clinical Medicine"}
+,{"code":"P467","value":"Clinical Medicine"}
+,{"code":"P468.021","value":"Clinical Medicine"}
+,{"code":"P468.024","value":"Clinical Medicine"}
+,{"code":"P469","value":"Clinical Medicine"}
+,{"code":"P481","value":"Clinical Medicine"}
+,{"code":"P542","value":"Internal medicine"}
+,{"code":"P575.4","value":"Internal medicine"}
+,{"code":"P611","value":"Surgery"}
+,{"code":"P618.13","value":"Surgery"}
+,{"code":"P618.31","value":"Surgery"}
+,{"code":"P618.41","value":"Surgery"}
+,{"code":"P627","value":"Surgery"}
+,{"code":"P631.4","value":"Surgery"}
+,{"code":"P634.5","value":"Surgery"}
+,{"code":"P641.8","value":"Surgery"}
+,{"code":"P642.2","value":"Surgery"}
+,{"code":"P642.22","value":"Surgery"}
+,{"code":"P642.23","value":"Surgery"}
+,{"code":"P724","value":"Pediatrics"}
+,{"code":"P731","value":"Oncology"}
+,{"code":"P731.15","value":"Oncology"}
+,{"code":"P731.22","value":"Oncology"}
+,{"code":"P731.23","value":"Oncology"}
+,{"code":"P734.2","value":"Oncology"}
+,{"code":"P736.21","value":"Oncology"}
+,{"code":"P74","value":"Neurology, Psychiatry"}
+,{"code":"P748","value":"Neurology, Psychiatry"}
+,{"code":"P90","value":"Pharmacology, Pharmacy"}
+,{"code":"P901","value":"Pharmacology, Pharmacy"}
+,{"code":"P931.3","value":"Pharmacology, Pharmacy"}
+,{"code":"Q2","value":"Cytology"}
+,{"code":"Q3","value":"Genetics"}
+,{"code":"Q41","value":"Physiology"}
+,{"code":"Q51","value":"Biochemistry"}
+,{"code":"Q548","value":"Biochemistry"}
+,{"code":"Q55","value":"Biochemistry"}
+,{"code":"Q562","value":"Biochemistry"}
+,{"code":"Q6-33","value":"Biophysics"}
+,{"code":"Q691","value":"Biophysics"}
+,{"code":"Q75","value":"Molecular Biology"}
+,{"code":"Q78","value":"Molecular Biology"}
+,{"code":"Q782","value":"Molecular Biology"}
+,{"code":"Q786","value":"Molecular Biology"}
+,{"code":"Q789","value":"Molecular Biology"}
+,{"code":"Q813.1","value":"Bioengineering"}
+,{"code":"Q813.11","value":"Bioengineering"}
+,{"code":"Q81-4","value":"Bioengineering"}
+,{"code":"Q93","value":"Zoology and Botany"}
+,{"code":"Q93-2","value":"Zoology and Botany"}
+,{"code":"Q93-4","value":"Zoology and Botany"}
+,{"code":"Q936","value":"Zoology and Botany"}
+,{"code":"Q938.8","value":"Zoology and Botany"}
+,{"code":"Q939.4","value":"Zoology and Botany"}
+,{"code":"Q939.9","value":"Zoology and Botany"}
+,{"code":"Q943.2","value":"Zoology and Botany"}
+,{"code":"Q944","value":"Zoology and Botany"}
+,{"code":"Q945","value":"Zoology and Botany"}
+,{"code":"Q945-4","value":"Zoology and Botany"}
+,{"code":"Q946","value":"Zoology and Botany"}
+,{"code":"Q948","value":"Zoology and Botany"}
+,{"code":"Q948.1","value":"Zoology and Botany"}
+,{"code":"Q948.15","value":"Zoology and Botany"}
+,{"code":"Q948.2","value":"Zoology and Botany"}
+,{"code":"Q948.5","value":"Zoology and Botany"}
+,{"code":"Q948.8","value":"Zoology and Botany"}
+,{"code":"Q949","value":"Zoology and Botany"}
+,{"code":"Q949.32","value":"Zoology and Botany"}
+,{"code":"Q949.36","value":"Zoology and Botany"}
+,{"code":"Q949.9","value":"Zoology and Botany"}
+,{"code":"Q95-3","value":"Zoology and Botany"}
+,{"code":"Q953","value":"Zoology and Botany"}
+,{"code":"Q958","value":"Zoology and Botany"}
+,{"code":"Q958.12","value":"Zoology and Botany"}
+,{"code":"Q958.8","value":"Zoology and Botany"}
+,{"code":"Q963","value":"Zoology and Botany"}
+,{"code":"Q964","value":"Zoology and Botany"}
+,{"code":"Q968","value":"Zoology and Botany"}
+,{"code":"R-09","value":"Medicine and Health Sciences"}
+,{"code":"R114","value":"Preventive Medicine, Public health"}
+,{"code":"R123.1","value":"Preventive Medicine, Public health"}
+,{"code":"R151","value":"Preventive Medicine, Public health"}
+,{"code":"R155.5","value":"Preventive Medicine, Public health"}
+,{"code":"R169.1","value":"Preventive Medicine, Public health"}
+,{"code":"R181.3","value":"Preventive Medicine, Public health"}
+,{"code":"R181.8","value":"Preventive Medicine, Public health"}
+,{"code":"R184","value":"Preventive Medicine, Public health"}
+,{"code":"R187","value":"Preventive Medicine, Public health"}
+,{"code":"R192","value":"Preventive Medicine, Public health"}
+,{"code":"R197.1","value":"Preventive Medicine, Public health"}
+,{"code":"R197.3","value":"Preventive Medicine, Public health"}
+,{"code":"R197.39","value":"Preventive Medicine, Public health"}
+,{"code":"R197.62","value":"Preventive Medicine, Public health"}
+,{"code":"R2-4","value":"Traditional Chinese Medicine"}
+,{"code":"R245","value":"Traditional Chinese Medicine"}
+,{"code":"R282","value":"Traditional Chinese Medicine"}
+,{"code":"R282.5","value":"Traditional Chinese Medicine"}
+,{"code":"R283","value":"Traditional Chinese Medicine"}
+,{"code":"R284","value":"Traditional Chinese Medicine"}
+,{"code":"R284.1","value":"Traditional Chinese Medicine"}
+,{"code":"R284.2","value":"Traditional Chinese Medicine"}
+,{"code":"R284.2","value":"Traditional Chinese Medicine"}
+,{"code":"R285","value":"Traditional Chinese Medicine"}
+,{"code":"R285.5","value":"Traditional Chinese Medicine"}
+,{"code":"R286.0","value":"Traditional Chinese Medicine"}
+,{"code":"R291.4","value":"Traditional Chinese Medicine"}
+,{"code":"R318.0","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"R318.01","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"R329","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"R-331","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"R-332","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"R341","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"R346","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"R363","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"R373","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"R373.13","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"R378","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"R392","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"R392.1","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"R392.11","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"R392.11","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
+,{"code":"R-4","value":"Medicine and Health Sciences"}
+,{"code":"R446.12","value":"Clinical Medicine"}
+,{"code":"R446.5","value":"Clinical Medicine"}
+,{"code":"R446.6","value":"Clinical Medicine"}
+,{"code":"R446-4","value":"Clinical Medicine"}
+,{"code":"R452","value":"Clinical Medicine"}
+,{"code":"R457.1","value":"Clinical Medicine"}
+,{"code":"R459.5","value":"Clinical Medicine"}
+,{"code":"R459.7","value":"Clinical Medicine"}
+,{"code":"R459.9","value":"Clinical Medicine"}
+,{"code":"R472","value":"Clinical Medicine"}
+,{"code":"R473.5","value":"Clinical Medicine"}
+,{"code":"R473.6","value":"Clinical Medicine"}
+,{"code":"R473.73","value":"Clinical Medicine"}
+,{"code":"R473.76","value":"Clinical Medicine"}
+,{"code":"R47-4","value":"Clinical Medicine"}
+,{"code":"R512.6","value":"Internal medicine"}
+,{"code":"R512.62","value":"Internal medicine"}
+,{"code":"R512.63","value":"Internal medicine"}
+,{"code":"R531.3","value":"Internal medicine"}
+,{"code":"R532.32","value":"Internal medicine"}
+,{"code":"R541","value":"Internal medicine"}
+,{"code":"R541.4","value":"Internal medicine"}
+,{"code":"R541.61","value":"Internal medicine"}
+,{"code":"R541.7","value":"Internal medicine"}
+,{"code":"R541.75","value":"Internal medicine"}
+,{"code":"R543.5","value":"Internal medicine"}
+,{"code":"R563.9","value":"Internal medicine"}
+,{"code":"R573","value":"Internal medicine"}
+,{"code":"R574.62","value":"Internal medicine"}
+,{"code":"R575","value":"Internal medicine"}
+,{"code":"R587.1","value":"Internal medicine"}
+,{"code":"R593","value":"Internal medicine"}
+,{"code":"R599","value":"Internal medicine"}
+,{"code":"R614.1","value":"Surgery"}
+,{"code":"R619","value":"Surgery"}
+,{"code":"R646","value":"Surgery"}
+,{"code":"R651.1","value":"Surgery"}
+,{"code":"R656.8","value":"Surgery"}
+,{"code":"R657.31","value":"Surgery"}
+,{"code":"R687.3","value":"Surgery"}
+,{"code":"R697.33","value":"Surgery"}
+,{"code":"R711.3","value":"Obstetrics, Gynecology"}
+,{"code":"R711.32","value":"Obstetrics, Gynecology"}
+,{"code":"R713","value":"Obstetrics, Gynecology"}
+,{"code":"R714.433","value":"Obstetrics, Gynecology"}
+,{"code":"R719","value":"Obstetrics, Gynecology"}
+,{"code":"R725.1","value":"Pediatrics"}
+,{"code":"R730.2","value":"Oncology"}
+,{"code":"R730.2","value":"Oncology"}
+,{"code":"R730.5","value":"Oncology"}
+,{"code":"R733.1","value":"Oncology"}
+,{"code":"R733.3","value":"Oncology"}
+,{"code":"R73-37","value":"Oncology"}
+,{"code":"R734.2","value":"Oncology"}
+,{"code":"R735.3","value":"Oncology"}
+,{"code":"R735.35","value":"Oncology"}
+,{"code":"R735.7","value":"Oncology"}
+,{"code":"R736.1","value":"Oncology"}
+,{"code":"R737.11","value":"Oncology"}
+,{"code":"R737.3","value":"Oncology"}
+,{"code":"R737.33","value":"Oncology"}
+,{"code":"R737.9","value":"Oncology"}
+,{"code":"R738.1","value":"Oncology"}
+,{"code":"R739.4","value":"Oncology"}
+,{"code":"R739.63","value":"Oncology"}
+,{"code":"R749.64","value":"Neurology, Psychiatry"}
+,{"code":"R766","value":"Otolaryngology"}
+,{"code":"R778","value":"Ophthalmology"}
+,{"code":"R781.4","value":"Dentistry"}
+,{"code":"R783.1","value":"Dentistry"}
+,{"code":"R816.1","value":"Radiology, Sport medicine, Diving medicine, Aerospace medicine"}
+,{"code":"R816.4","value":"Radiology, Sport medicine, Diving medicine, Aerospace medicine"}
+,{"code":"R816.5","value":"Radiology, Sport medicine, Diving medicine, Aerospace medicine"}
+,{"code":"R914","value":"Pharmacology, Pharmacy"}
+,{"code":"R917","value":"Pharmacology, Pharmacy"}
+,{"code":"R9-4","value":"Pharmacology, Pharmacy"}
+,{"code":"R943","value":"Pharmacology, Pharmacy"}
+,{"code":"R944","value":"Pharmacology, Pharmacy"}
+,{"code":"R96","value":"Pharmacology, Pharmacy"}
+,{"code":"R963","value":"Pharmacology, Pharmacy"}
+,{"code":"R965","value":"Pharmacology, Pharmacy"}
+,{"code":"R969.1","value":"Pharmacology, Pharmacy"}
+,{"code":"R977.3","value":"Pharmacology, Pharmacy"}
+,{"code":"S-0","value":"Agricultural Science"}
+,{"code":"S-4","value":"Agricultural Science"}
+,{"code":"S126","value":"Fundamental Agricultural Science"}
+,{"code":"S127","value":"Fundamental Agricultural Science"}
+,{"code":"S141","value":"Fundamental Agricultural Science"}
+,{"code":"S141.4","value":"Fundamental Agricultural Science"}
+,{"code":"S147","value":"Fundamental Agricultural Science"}
+,{"code":"S147.2","value":"Fundamental Agricultural Science"}
+,{"code":"S152","value":"Fundamental Agricultural Science"}
+,{"code":"S152.3","value":"Fundamental Agricultural Science"}
+,{"code":"S152.7","value":"Fundamental Agricultural Science"}
+,{"code":"S152.8","value":"Fundamental Agricultural Science"}
+,{"code":"S153","value":"Fundamental Agricultural Science"}
+,{"code":"S153.6","value":"Fundamental Agricultural Science"}
+,{"code":"S154.2","value":"Fundamental Agricultural Science"}
+,{"code":"S154.3","value":"Fundamental Agricultural Science"}
+,{"code":"S156","value":"Fundamental Agricultural Science"}
+,{"code":"S156.6","value":"Fundamental Agricultural Science"}
+,{"code":"S157","value":"Fundamental Agricultural Science"}
+,{"code":"S157.2","value":"Fundamental Agricultural Science"}
+,{"code":"S157.2","value":"Fundamental Agricultural Science"}
+,{"code":"S158","value":"Fundamental Agricultural Science"}
+,{"code":"S158.2","value":"Fundamental Agricultural Science"}
+,{"code":"S158.2","value":"Fundamental Agricultural Science"}
+,{"code":"S16","value":"Fundamental Agricultural Science"}
+,{"code":"S161.6","value":"Fundamental Agricultural Science"}
+,{"code":"S163.7","value":"Fundamental Agricultural Science"}
+,{"code":"S165","value":"Fundamental Agricultural Science"}
+,{"code":"S182","value":"Fundamental Agricultural Science"}
+,{"code":"S188","value":"Fundamental Agricultural Science"}
+,{"code":"S216.4","value":"Agricultural Engineering"}
+,{"code":"S218.5","value":"Agricultural Engineering"}
+,{"code":"S220.3","value":"Agricultural Engineering"}
+,{"code":"S223","value":"Agricultural Engineering"}
+,{"code":"S223.9","value":"Agricultural Engineering"}
+,{"code":"S223.9","value":"Agricultural Engineering"}
+,{"code":"S223.91","value":"Agricultural Engineering"}
+,{"code":"S22-4","value":"Agricultural Engineering"}
+,{"code":"S224.29","value":"Agricultural Engineering"}
+,{"code":"S225.3","value":"Agricultural Engineering"}
+,{"code":"S225.51","value":"Agricultural Engineering"}
+,{"code":"S226.1","value":"Agricultural Engineering"}
+,{"code":"S226.4","value":"Agricultural Engineering"}
+,{"code":"S226.5","value":"Agricultural Engineering"}
+,{"code":"S233.1","value":"Agricultural Engineering"}
+,{"code":"S233.71","value":"Agricultural Engineering"}
+,{"code":"S233.75","value":"Agricultural Engineering"}
+,{"code":"S25","value":"Agricultural Engineering"}
+,{"code":"S274","value":"Agricultural Engineering"}
+,{"code":"S274.3","value":"Agricultural Engineering"}
+,{"code":"S275","value":"Agricultural Engineering"}
+,{"code":"S275.3","value":"Agricultural Engineering"}
+,{"code":"S275.5","value":"Agricultural Engineering"}
+,{"code":"S277","value":"Agricultural Engineering"}
+,{"code":"S277.7","value":"Agricultural Engineering"}
+,{"code":"S277.94","value":"Agricultural Engineering"}
+,{"code":"S345","value":"Agronomy"}
+,{"code":"S330","value":"Agronomy"}
+,{"code":"S344","value":"Agronomy"}
+,{"code":"S359","value":"Agronomy"}
+,{"code":"S379","value":"Agronomy"}
+,{"code":"S379.5","value":"Agronomy"}
+,{"code":"S379","value":"Agronomy"}
+,{"code":"S38","value":"Agronomy"}
+,{"code":"S41-3","value":"Phytopathology"}
+,{"code":"S42","value":"Phytopathology"}
+,{"code":"S423","value":"Phytopathology"}
+,{"code":"S426","value":"Phytopathology"}
+,{"code":"S432.4","value":"Phytopathology"}
+,{"code":"S433","value":"Phytopathology"}
+,{"code":"S433.1","value":"Phytopathology"}
+,{"code":"S433.3","value":"Phytopathology"}
+,{"code":"S435.11","value":"Phytopathology"}
+,{"code":"S435.11","value":"Phytopathology"}
+,{"code":"S435.111.4","value":"Phytopathology"}
+,{"code":"S435.111.41","value":"Phytopathology"}
+,{"code":"S435.112","value":"Phytopathology"}
+,{"code":"S435.112.1","value":"Phytopathology"}
+,{"code":"S435.112.3","value":"Phytopathology"}
+,{"code":"S435.112.6","value":"Phytopathology"}
+,{"code":"S435.121.42","value":"Phytopathology"}
+,{"code":"S435.122","value":"Phytopathology"}
+,{"code":"S435.13","value":"Phytopathology"}
+,{"code":"S435.131","value":"Phytopathology"}
+,{"code":"S435.132","value":"Phytopathology"}
+,{"code":"S435.29","value":"Phytopathology"}
+,{"code":"S435.32","value":"Phytopathology"}
+,{"code":"S435.33","value":"Phytopathology"}
+,{"code":"S435.4","value":"Phytopathology"}
+,{"code":"S435.621","value":"Phytopathology"}
+,{"code":"S435.651","value":"Phytopathology"}
+,{"code":"S435.652","value":"Phytopathology"}
+,{"code":"S435.661","value":"Phytopathology"}
+,{"code":"S435.672","value":"Phytopathology"}
+,{"code":"S435.711","value":"Phytopathology"}
+,{"code":"S435.72","value":"Phytopathology"}
+,{"code":"S435.73","value":"Phytopathology"}
+,{"code":"S436.3","value":"Phytopathology"}
+,{"code":"S436.3","value":"Phytopathology"}
+,{"code":"S436.31","value":"Phytopathology"}
+,{"code":"S436.33","value":"Phytopathology"}
+,{"code":"S436.35","value":"Phytopathology"}
+,{"code":"S436.36","value":"Phytopathology"}
+,{"code":"S436.412","value":"Phytopathology"}
+,{"code":"S436.412.1","value":"Phytopathology"}
+,{"code":"S436.418","value":"Phytopathology"}
+,{"code":"S436.421","value":"Phytopathology"}
+,{"code":"S436.462","value":"Phytopathology"}
+,{"code":"S436.5","value":"Phytopathology"}
+,{"code":"S436.611.1","value":"Phytopathology"}
+,{"code":"S436.611.23","value":"Phytopathology"}
+,{"code":"S436.612","value":"Phytopathology"}
+,{"code":"S436.629","value":"Phytopathology"}
+,{"code":"S436.631","value":"Phytopathology"}
+,{"code":"S436.634","value":"Phytopathology"}
+,{"code":"S436.64","value":"Phytopathology"}
+,{"code":"S436.66","value":"Phytopathology"}
+,{"code":"S436.661","value":"Phytopathology"}
+,{"code":"S436.669","value":"Phytopathology"}
+,{"code":"S436.67","value":"Phytopathology"}
+,{"code":"S436.68","value":"Phytopathology"}
+,{"code":"S436.8","value":"Phytopathology"}
+,{"code":"S451","value":"Phytopathology"}
+,{"code":"S451.1","value":"Phytopathology"}
+,{"code":"S451.2","value":"Phytopathology"}
+,{"code":"S451.21","value":"Phytopathology"}
+,{"code":"S451.221","value":"Phytopathology"}
+,{"code":"S476","value":"Phytopathology"}
+,{"code":"S476.12","value":"Phytopathology"}
+,{"code":"S476.2","value":"Phytopathology"}
+,{"code":"S481.8","value":"Phytopathology"}
+,{"code":"S482.2","value":"Phytopathology"}
+,{"code":"S482.3","value":"Phytopathology"}
+,{"code":"S482.891","value":"Phytopathology"}
+,{"code":"S482.99","value":"Phytopathology"}
+,{"code":"S511","value":"Individual Crops"}
+,{"code":"S511.21","value":"Individual Crops"}
+,{"code":"S511.22","value":"Individual Crops"}
+,{"code":"S511.23","value":"Individual Crops"}
+,{"code":"S511.31","value":"Individual Crops"}
+,{"code":"S511.33","value":"Individual Crops"}
+,{"code":"S511.41","value":"Individual Crops"}
+,{"code":"S511.42","value":"Individual Crops"}
+,{"code":"S511.42","value":"Individual Crops"}
+,{"code":"S511.6","value":"Individual Crops"}
+,{"code":"S511.9","value":"Individual Crops"}
+,{"code":"S511","value":"Individual Crops"}
+,{"code":"S512.1","value":"Individual Crops"}
+,{"code":"S512.1","value":"Individual Crops"}
+,{"code":"S512.11","value":"Individual Crops"}
+,{"code":"S512.11","value":"Individual Crops"}
+,{"code":"S512.12","value":"Individual Crops"}
+,{"code":"S512.3","value":"Individual Crops"}
+,{"code":"S512.5","value":"Individual Crops"}
+,{"code":"S513","value":"Individual Crops"}
+,{"code":"S516","value":"Individual Crops"}
+,{"code":"S517","value":"Individual Crops"}
+,{"code":"S519","value":"Individual Crops"}
+,{"code":"S521","value":"Individual Crops"}
+,{"code":"S522","value":"Individual Crops"}
+,{"code":"S529","value":"Individual Crops"}
+,{"code":"S531","value":"Individual Crops"}
+,{"code":"S532","value":"Individual Crops"}
+,{"code":"S533","value":"Individual Crops"}
+,{"code":"S543.9","value":"Individual Crops"}
+,{"code":"S548","value":"Individual Crops"}
+,{"code":"S54","value":"Individual Crops"}
+,{"code":"S54","value":"Individual Crops"}
+,{"code":"S541.9","value":"Individual Crops"}
+,{"code":"S562","value":"Individual Crops"}
+,{"code":"S563.2","value":"Individual Crops"}
+,{"code":"S563.5","value":"Individual Crops"}
+,{"code":"S565.1","value":"Individual Crops"}
+,{"code":"S565.2","value":"Individual Crops"}
+,{"code":"S565.4","value":"Individual Crops"}
+,{"code":"S565.5","value":"Individual Crops"}
+,{"code":"S565.9","value":"Individual Crops"}
+,{"code":"S566.1","value":"Individual Crops"}
+,{"code":"S566.3","value":"Individual Crops"}
+,{"code":"S566.5","value":"Individual Crops"}
+,{"code":"S566.9","value":"Individual Crops"}
+,{"code":"S567","value":"Individual Crops"}
+,{"code":"S567.19","value":"Individual Crops"}
+,{"code":"S567.219","value":"Individual Crops"}
+,{"code":"S567.234","value":"Individual Crops"}
+,{"code":"S567.239","value":"Individual Crops"}
+,{"code":"S567.32","value":"Individual Crops"}
+,{"code":"S567.35","value":"Individual Crops"}
+,{"code":"S567.53","value":"Individual Crops"}
+,{"code":"S567.79","value":"Individual Crops"}
+,{"code":"S571.1","value":"Individual Crops"}
+,{"code":"S572","value":"Individual Crops"}
+,{"code":"S573.9","value":"Individual Crops"}
+,{"code":"S625.1","value":"Horticulture"}
+,{"code":"S626","value":"Horticulture"}
+,{"code":"S626.4","value":"Horticulture"}
+,{"code":"S626","value":"Horticulture"}
+,{"code":"S628","value":"Horticulture"}
+,{"code":"S629","value":"Horticulture"}
+,{"code":"S63","value":"Horticulture"}
+,{"code":"S631.1","value":"Horticulture"}
+,{"code":"S631.3","value":"Horticulture"}
+,{"code":"S632.1","value":"Horticulture"}
+,{"code":"S632.5","value":"Horticulture"}
+,{"code":"S633.4","value":"Horticulture"}
+,{"code":"S634.1","value":"Horticulture"}
+,{"code":"S635.3","value":"Horticulture"}
+,{"code":"S636.2","value":"Horticulture"}
+,{"code":"S636.3","value":"Horticulture"}
+,{"code":"S636.9","value":"Horticulture"}
+,{"code":"S641.1","value":"Horticulture"}
+,{"code":"S641.2","value":"Horticulture"}
+,{"code":"S641.3","value":"Horticulture"}
+,{"code":"S642.1","value":"Horticulture"}
+,{"code":"S642.2","value":"Horticulture"}
+,{"code":"S642.5","value":"Horticulture"}
+,{"code":"S643.3","value":"Horticulture"}
+,{"code":"S643.4","value":"Horticulture"}
+,{"code":"S644.6","value":"Horticulture"}
+,{"code":"S646","value":"Horticulture"}
+,{"code":"S646.12","value":"Horticulture"}
+,{"code":"S646.14","value":"Horticulture"}
+,{"code":"S646","value":"Horticulture"}
+,{"code":"S647","value":"Horticulture"}
+,{"code":"S651","value":"Horticulture"}
+,{"code":"S652","value":"Horticulture"}
+,{"code":"S66","value":"Horticulture"}
+,{"code":"S661.1","value":"Horticulture"}
+,{"code":"S661.2","value":"Horticulture"}
+,{"code":"S661.5","value":"Horticulture"}
+,{"code":"S662.2","value":"Horticulture"}
+,{"code":"S662.3","value":"Horticulture"}
+,{"code":"S662.5","value":"Horticulture"}
+,{"code":"S662.9","value":"Horticulture"}
+,{"code":"S663.1","value":"Horticulture"}
+,{"code":"S663.4","value":"Horticulture"}
+,{"code":"S663.9","value":"Horticulture"}
+,{"code":"S66-4","value":"Horticulture"}
+,{"code":"S664.1","value":"Horticulture"}
+,{"code":"S664.2","value":"Horticulture"}
+,{"code":"S664.5","value":"Horticulture"}
+,{"code":"S665.1","value":"Horticulture"}
+,{"code":"S665.2","value":"Horticulture"}
+,{"code":"S666","value":"Horticulture"}
+,{"code":"S666.3","value":"Horticulture"}
+,{"code":"S666.3","value":"Horticulture"}
+,{"code":"S666.4","value":"Horticulture"}
+,{"code":"S666.6","value":"Horticulture"}
+,{"code":"S667.7","value":"Horticulture"}
+,{"code":"S667.9","value":"Horticulture"}
+,{"code":"S668.4","value":"Horticulture"}
+,{"code":"S668.9","value":"Horticulture"}
+,{"code":"S68","value":"Horticulture"}
+,{"code":"S681.9","value":"Horticulture"}
+,{"code":"S682.11","value":"Horticulture"}
+,{"code":"S682.15","value":"Horticulture"}
+,{"code":"S682.24","value":"Horticulture"}
+,{"code":"S682.29","value":"Horticulture"}
+,{"code":"S682.31","value":"Horticulture"}
+,{"code":"S682.32","value":"Horticulture"}
+,{"code":"S682.36","value":"Horticulture"}
+,{"code":"S682.39","value":"Horticulture"}
+,{"code":"S685.11","value":"Horticulture"}
+,{"code":"S685.12","value":"Horticulture"}
+,{"code":"S685.13","value":"Horticulture"}
+,{"code":"S685.15","value":"Horticulture"}
+,{"code":"S685.21","value":"Horticulture"}
+,{"code":"S687","value":"Horticulture"}
+,{"code":"S688.4","value":"Horticulture"}
+,{"code":"S688.4-4","value":"Horticulture"}
+,{"code":"S712","value":"Forestry"}
+,{"code":"S714","value":"Forestry"}
+,{"code":"S718","value":"Forestry"}
+,{"code":"S718.4","value":"Forestry"}
+,{"code":"S718.5","value":"Forestry"}
+,{"code":"S718.51","value":"Forestry"}
+,{"code":"S718.54","value":"Forestry"}
+,{"code":"S724","value":"Forestry"}
+,{"code":"S727.2","value":"Forestry"}
+,{"code":"S727.24","value":"Forestry"}
+,{"code":"S731","value":"Forestry"}
+,{"code":"S731.2","value":"Forestry"}
+,{"code":"S731.5","value":"Forestry"}
+,{"code":"S731.7","value":"Forestry"}
+,{"code":"S731.8","value":"Forestry"}
+,{"code":"S750","value":"Forestry"}
+,{"code":"S753","value":"Forestry"}
+,{"code":"S757.2","value":"Forestry"}
+,{"code":"S758.5","value":"Forestry"}
+,{"code":"S759.2","value":"Forestry"}
+,{"code":"S759.9","value":"Forestry"}
+,{"code":"S759.9","value":"Forestry"}
+,{"code":"S759.93","value":"Forestry"}
+,{"code":"S762","value":"Forestry"}
+,{"code":"S762.2","value":"Forestry"}
+,{"code":"S763","value":"Forestry"}
+,{"code":"S763.3","value":"Forestry"}
+,{"code":"S763.38","value":"Forestry"}
+,{"code":"S763.42","value":"Forestry"}
+,{"code":"S763.7","value":"Forestry"}
+,{"code":"S771.3","value":"Forestry"}
+,{"code":"S771.8","value":"Forestry"}
+,{"code":"S781.82","value":"Forestry"}
+,{"code":"S788.2","value":"Forestry"}
+,{"code":"S788.1","value":"Forestry"}
+,{"code":"S791","value":"Forestry"}
+,{"code":"S791.18","value":"Forestry"}
+,{"code":"S791.182","value":"Forestry"}
+,{"code":"S791.22","value":"Forestry"}
+,{"code":"S791.24","value":"Forestry"}
+,{"code":"S791.247","value":"Forestry"}
+,{"code":"S791.248","value":"Forestry"}
+,{"code":"S791.253","value":"Forestry"}
+,{"code":"S791.254","value":"Forestry"}
+,{"code":"S791.255","value":"Forestry"}
+,{"code":"S791.27","value":"Forestry"}
+,{"code":"S791.27","value":"Forestry"}
+,{"code":"S791.49","value":"Forestry"}
+,{"code":"S792","value":"Forestry"}
+,{"code":"S792.11","value":"Forestry"}
+,{"code":"S792.186","value":"Forestry"}
+,{"code":"S792.23","value":"Forestry"}
+,{"code":"S792.24","value":"Forestry"}
+,{"code":"S792.27","value":"Forestry"}
+,{"code":"S792.39","value":"Forestry"}
+,{"code":"S792.95","value":"Forestry"}
+,{"code":"S792.99","value":"Forestry"}
+,{"code":"S793.9","value":"Forestry"}
+,{"code":"S794.1","value":"Forestry"}
+,{"code":"S794.4","value":"Forestry"}
+,{"code":"S794.9","value":"Forestry"}
+,{"code":"S795","value":"Forestry"}
+,{"code":"S795.9","value":"Forestry"}
+,{"code":"S812","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S812.2","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S814.8","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S814.8","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S816","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S816.15","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S816.17","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S816.3","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S816.5","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S816.7","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S817.12","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S823","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S823.3","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S823.5","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S823","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S826","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S826.5","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S826.6","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S826.89","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S827","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S827.5","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S828","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S828.5","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S831","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S831.3","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S831.5","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S831.89","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S834","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S834.2","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S834.3","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S835.4","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S851","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S851.2-4","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S851.313","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S851.33","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S851.33","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S851.347.31","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S851.347.34","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S852.2","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S852.2-4","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S852.43","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S852.5","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S852.6","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S852.6-4","value":""}
+,{"code":"S852.61","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S852.65","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S852.651","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S852.659.4","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S852.659.5","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S852.659.5","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S852.659.6","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S852.7","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S853.7","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S854.4-4","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S855","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S855.3","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S856.9","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S858.23","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S858.25","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S858.26","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S858.27","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S858.27","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S858.28","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S858.291","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S858.292","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S858.292","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S858.293","value":""}
+,{"code":"S858.31","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S858.33","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S858.39","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S858.9","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S858.91","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S859.79","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S865.23","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S879.3","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S882","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S883.9","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S884.21","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S886.9","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S888","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S888.712","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S888.72","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S891","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S896.1","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S896.6","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S896.6","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S899.9","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
+,{"code":"S917.4","value":"Aquaculture, Fishery"}
+,{"code":"S931","value":"Aquaculture, Fishery"}
+,{"code":"S931.3","value":"Aquaculture, Fishery"}
+,{"code":"S932.4","value":"Aquaculture, Fishery"}
+,{"code":"S932.5","value":"Aquaculture, Fishery"}
+,{"code":"S932.51","value":"Aquaculture, Fishery"}
+,{"code":"S941","value":"Aquaculture, Fishery"}
+,{"code":"S942","value":"Aquaculture, Fishery"}
+,{"code":"S943","value":"Aquaculture, Fishery"}
+,{"code":"S944","value":"Aquaculture, Fishery"}
+,{"code":"S948","value":"Aquaculture, Fishery"}
+,{"code":"S963","value":"Aquaculture, Fishery"}
+,{"code":"S963.2","value":"Aquaculture, Fishery"}
+,{"code":"S963.72","value":"Aquaculture, Fishery"}
+,{"code":"S965.125","value":"Aquaculture, Fishery"}
+,{"code":"S965.199","value":"Aquaculture, Fishery"}
+,{"code":"S967.3","value":"Aquaculture, Fishery"}
+,{"code":"S968.22","value":"Aquaculture, Fishery"}
+,{"code":"S968.4","value":"Aquaculture, Fishery"}
+,{"code":"S968.421","value":"Aquaculture, Fishery"}
+,{"code":"TB30-4","value":"General Industrial Technology"}
+,{"code":"TB34","value":"General Industrial Technology"}
+,{"code":"TB383.1","value":"General Industrial Technology"}
+,{"code":"TB383.2","value":"General Industrial Technology"}
+,{"code":"TB535","value":"General Industrial Technology"}
+,{"code":"TB559","value":"General Industrial Technology"}
+,{"code":"TB65","value":"General Industrial Technology"}
+,{"code":"TB651","value":"General Industrial Technology"}
+,{"code":"TD32","value":"Mining Engineering"}
+,{"code":"TD322","value":"Mining Engineering"}
+,{"code":"TD324","value":"Mining Engineering"}
+,{"code":"TD325","value":"Mining Engineering"}
+,{"code":"TD353","value":"Mining Engineering"}
+,{"code":"TD40","value":"Mining Engineering"}
+,{"code":"TD407","value":"Mining Engineering"}
+,{"code":"TD528.1","value":"Mining Engineering"}
+,{"code":"TD63","value":"Mining Engineering"}
+,{"code":"TD67","value":"Mining Engineering"}
+,{"code":"TD724","value":"Mining Engineering"}
+,{"code":"TD824","value":"Mining Engineering"}
+,{"code":"TE357.46","value":"Petroleum, Natural Gas"}
+,{"code":"TE667","value":"Petroleum, Natural Gas"}
+,{"code":"TE88","value":"Petroleum, Natural Gas"}
+,{"code":"TE952","value":"Petroleum, Natural Gas"}
+,{"code":"TE967","value":"Petroleum, Natural Gas"}
+,{"code":"TE972","value":"Petroleum, Natural Gas"}
+,{"code":"TG174.44","value":"Metallurgy, Metalworking"}
+,{"code":"TG24","value":"Metallurgy, Metalworking"}
+,{"code":"TG307","value":"Metallurgy, Metalworking"}
+,{"code":"TG386","value":"Metallurgy, Metalworking"}
+,{"code":"TG409","value":"Metallurgy, Metalworking"}
+,{"code":"TG453.9","value":"Metallurgy, Metalworking"}
+,{"code":"TG519.1","value":"Metallurgy, Metalworking"}
+,{"code":"TG580.13","value":"Metallurgy, Metalworking"}
+,{"code":"TG580.67","value":"Metallurgy, Metalworking"}
+,{"code":"TG659","value":"Metallurgy, Metalworking"}
+,{"code":"TH112","value":"Metallurgy, Metalworking"}
+,{"code":"TH114","value":"Machinery, Instrumentation"}
+,{"code":"TH126-4","value":"Machinery, Instrumentation"}
+,{"code":"TH137","value":"Machinery, Instrumentation"}
+,{"code":"TH224","value":"Machinery, Instrumentation"}
+,{"code":"TH311","value":"Machinery, Instrumentation"}
+,{"code":"TH38","value":"Machinery, Instrumentation"}
+,{"code":"TH-39","value":"Machinery, Instrumentation"}
+,{"code":"TH-39","value":"Machinery, Instrumentation"}
+,{"code":"TH45","value":"Machinery, Instrumentation"}
+,{"code":"TH457","value":"Machinery, Instrumentation"}
+,{"code":"TH772.2","value":"Machinery, Instrumentation"}
+,{"code":"TH814","value":"Machinery, Instrumentation"}
+,{"code":"TH837","value":"Machinery, Instrumentation"}
+,{"code":"TH843","value":"Machinery, Instrumentation"}
+,{"code":"TK124","value":"Power Plant"}
+,{"code":"TK17","value":"Power Plant"}
+,{"code":"TK172","value":"Power Plant"}
+,{"code":"TK227.2","value":"Power Plant"}
+,{"code":"TK323","value":"Power Plant"}
+,{"code":"TK42","value":"Power Plant"}
+,{"code":"TK421.26","value":"Power Plant"}
+,{"code":"TK513","value":"Power Plant"}
+,{"code":"TK513.3","value":"Power Plant"}
+,{"code":"TK515","value":"Power Plant"}
+,{"code":"TK519","value":"Power Plant"}
+,{"code":"TK529","value":"Power Plant"}
+,{"code":"TK6","value":"Power Plant"}
+,{"code":"TK83","value":"Power Plant"}
+,{"code":"TL24","value":"Nuclear technology"}
+,{"code":"TL271","value":"Nuclear technology"}
+,{"code":"TL362.6","value":"Nuclear technology"}
+,{"code":"TL364","value":"Nuclear technology"}
+,{"code":"TL503.8","value":"Nuclear technology"}
+,{"code":"TL81","value":"Nuclear technology"}
+,{"code":"TM301.3","value":"Electrical Engineering"}
+,{"code":"TM31","value":"Electrical Engineering"}
+,{"code":"TM352","value":"Electrical Engineering"}
+,{"code":"TM41","value":"Electrical Engineering"}
+,{"code":"TM452","value":"Electrical Engineering"}
+,{"code":"TM507","value":"Electrical Engineering"}
+,{"code":"TM53","value":"Electrical Engineering"}
+,{"code":"TM59","value":"Electrical Engineering"}
+,{"code":"TM614","value":"Electrical Engineering"}
+,{"code":"TM621","value":"Electrical Engineering"}
+,{"code":"TM621.2","value":"Electrical Engineering"}
+,{"code":"TM621.6","value":"Electrical Engineering"}
+,{"code":"TM623.8","value":"Electrical Engineering"}
+,{"code":"TM63","value":"Electrical Engineering"}
+,{"code":"TM712","value":"Electrical Engineering"}
+,{"code":"TM714.3","value":"Electrical Engineering"}
+,{"code":"TM725","value":"Electrical Engineering"}
+,{"code":"TM73","value":"Electrical Engineering"}
+,{"code":"TM732","value":"Electrical Engineering"}
+,{"code":"TM744","value":"Electrical Engineering"}
+,{"code":"TM75","value":"Electrical Engineering"}
+,{"code":"TM752","value":"Electrical Engineering"}
+,{"code":"TM755","value":"Electrical Engineering"}
+,{"code":"TM76","value":"Electrical Engineering"}
+,{"code":"TM764","value":"Electrical Engineering"}
+,{"code":"TM77","value":"Electrical Engineering"}
+,{"code":"TM772","value":"Electrical Engineering"}
+,{"code":"TM862","value":"Electrical Engineering"}
+,{"code":"TM862","value":"Electrical Engineering"}
+,{"code":"TM914.4","value":"Electrical Engineering"}
+,{"code":"TM914.41","value":"Electrical Engineering"}
+,{"code":"TM914.41","value":"Electrical Engineering"}
+,{"code":"TM923.4","value":"Electrical Engineering"}
+,{"code":"TM933.1","value":"Electrical Engineering"}
+,{"code":"TM933.4","value":"Electrical Engineering"}
+,{"code":"TN247","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN304","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN305","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN405","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN47","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN710","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN710","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN710-4","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN713","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN764","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN791","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN792","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN820","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN859","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN86","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN911.5","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN911.7","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN912.3","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN912.34","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN916.2","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN918.1","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN918","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN919.81","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN925","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN929.11","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN929.1-4","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN929.5","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN957.51","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN958","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TN966.6","value":"Electronic Engineering, Telecommunication Engineering"}
+,{"code":"TP13","value":"Automation, Computer Engineering"}
+,{"code":"TP18","value":"Automation, Computer Engineering"}
+,{"code":"TP181","value":"Automation, Computer Engineering"}
+,{"code":"TP182","value":"Automation, Computer Engineering"}
+,{"code":"TP183","value":"Automation, Computer Engineering"}
+,{"code":"TP212","value":"Automation, Computer Engineering"}
+,{"code":"TP212.11","value":"Automation, Computer Engineering"}
+,{"code":"TP212.2","value":"Automation, Computer Engineering"}
+,{"code":"TP212.9","value":"Automation, Computer Engineering"}
+,{"code":"TP241","value":"Automation, Computer Engineering"}
+,{"code":"TP242","value":"Automation, Computer Engineering"}
+,{"code":"TP273","value":"Automation, Computer Engineering"}
+,{"code":"TP273.5","value":"Automation, Computer Engineering"}
+,{"code":"TP274","value":"Automation, Computer Engineering"}
+,{"code":"TP274.53","value":"Automation, Computer Engineering"}
+,{"code":"TP277","value":"Automation, Computer Engineering"}
+,{"code":"TP3","value":"Automation, Computer Engineering"}
+,{"code":"TP301.6","value":"Automation, Computer Engineering"}
+,{"code":"TP308","value":"Automation, Computer Engineering"}
+,{"code":"TP309","value":"Automation, Computer Engineering"}
+,{"code":"TP309.7","value":"Automation, Computer Engineering"}
+,{"code":"TP309","value":"Automation, Computer Engineering"}
+,{"code":"TP311.11","value":"Automation, Computer Engineering"}
+,{"code":"TP311.12","value":"Automation, Computer Engineering"}
+,{"code":"TP311.13","value":"Automation, Computer Engineering"}
+,{"code":"TP311.5","value":"Automation, Computer Engineering"}
+,{"code":"TP311.52","value":"Automation, Computer Engineering"}
+,{"code":"TP312.2-4","value":"Automation, Computer Engineering"}
+,{"code":"TP315","value":"Automation, Computer Engineering"}
+,{"code":"TP315","value":"Automation, Computer Engineering"}
+,{"code":"TP315","value":"Automation, Computer Engineering"}
+,{"code":"TP316.4","value":"Automation, Computer Engineering"}
+,{"code":"TP316.81","value":"Automation, Computer Engineering"}
+,{"code":"TP317.4","value":"Automation, Computer Engineering"}
+,{"code":"TP317.4-4","value":"Automation, Computer Engineering"}
+,{"code":"TP332","value":"Automation, Computer Engineering"}
+,{"code":"TP333","value":"Automation, Computer Engineering"}
+,{"code":"TP333.1","value":"Automation, Computer Engineering"}
+,{"code":"TP368.2","value":"Automation, Computer Engineering"}
+,{"code":"TP391.1","value":"Automation, Computer Engineering"}
+,{"code":"TP391.3","value":"Automation, Computer Engineering"}
+,{"code":"TP391.4","value":"Automation, Computer Engineering"}
+,{"code":"TP391.12","value":"Automation, Computer Engineering"}
+,{"code":"TP391.41","value":"Automation, Computer Engineering"}
+,{"code":"TP391.44","value":"Automation, Computer Engineering"}
+,{"code":"TP391.7","value":"Automation, Computer Engineering"}
+,{"code":"TP391.72","value":"Automation, Computer Engineering"}
+,{"code":"TP391.7-4","value":"Automation, Computer Engineering"}
+,{"code":"TP391.9","value":"Automation, Computer Engineering"}
+,{"code":"TP393.01","value":"Automation, Computer Engineering"}
+,{"code":"TP393.02","value":"Automation, Computer Engineering"}
+,{"code":"TP393.06","value":"Automation, Computer Engineering"}
+,{"code":"TP393.08","value":"Automation, Computer Engineering"}
+,{"code":"TP393.09","value":"Automation, Computer Engineering"}
+,{"code":"TP393.092","value":"Automation, Computer Engineering"}
+,{"code":"TP393.094","value":"Automation, Computer Engineering"}
+,{"code":"TP393.18","value":"Automation, Computer Engineering"}
+,{"code":"TP393.2","value":"Automation, Computer Engineering"}
+,{"code":"TP399-C3","value":"Automation, Computer Engineering"}
+,{"code":"TP79","value":"Automation, Computer Engineering"}
+,{"code":"TQ085.4","value":"Chemical Engineering"}
+,{"code":"TQ113.26","value":"Chemical Engineering"}
+,{"code":"TQ116.2","value":"Chemical Engineering"}
+,{"code":"TQ172.632.5","value":"Chemical Engineering"}
+,{"code":"TQ174.1","value":"Chemical Engineering"}
+,{"code":"TQ223.122","value":"Chemical Engineering"}
+,{"code":"TQ226.6","value":"Chemical Engineering"}
+,{"code":"TQ244.1","value":"Chemical Engineering"}
+,{"code":"TQ28","value":"Chemical Engineering"}
+,{"code":"TQ314.24","value":"Chemical Engineering"}
+,{"code":"TQ316.334","value":"Chemical Engineering"}
+,{"code":"TQ317","value":"Chemical Engineering"}
+,{"code":"TQ342.742","value":"Chemical Engineering"}
+,{"code":"TQ352","value":"Chemical Engineering"}
+,{"code":"TQ353.1","value":"Chemical Engineering"}
+,{"code":"TQ432.2","value":"Chemical Engineering"}
+,{"code":"TQ440.8","value":"Chemical Engineering"}
+,{"code":"TQ441.41","value":"Chemical Engineering"}
+,{"code":"TQ441.41","value":"Chemical Engineering"}
+,{"code":"TQ450","value":"Chemical Engineering"}
+,{"code":"TQ450.1","value":"Chemical Engineering"}
+,{"code":"TQ450.1","value":"Chemical Engineering"}
+,{"code":"TQ450.7","value":"Chemical Engineering"}
+,{"code":"TQ453.2","value":"Chemical Engineering"}
+,{"code":"TQ455.47","value":"Chemical Engineering"}
+,{"code":"TQ457.2","value":"Chemical Engineering"}
+,{"code":"TQ461","value":"Chemical Engineering"}
+,{"code":"TQ463.5","value":"Chemical Engineering"}
+,{"code":"TQ465","value":"Chemical Engineering"}
+,{"code":"TQ611","value":"Chemical Engineering"}
+,{"code":"TQ658","value":"Chemical Engineering"}
+,{"code":"TQ914","value":"Chemical Engineering"}
+,{"code":"TQ914.1","value":"Chemical Engineering"}
+,{"code":"TQ920.6","value":"Chemical Engineering"}
+,{"code":"TQ920.6","value":"Chemical Engineering"}
+,{"code":"TQ922.9","value":"Chemical Engineering"}
+,{"code":"TQ925","value":"Chemical Engineering"}
+,{"code":"TQ925.2","value":"Chemical Engineering"}
+,{"code":"TQ927","value":"Chemical Engineering"}
+,{"code":"TQ929.2","value":"Chemical Engineering"}
+,{"code":"TQ943","value":"Chemical Engineering"}
+,{"code":"TS105.1","value":"Light Industry, Handicraft"}
+,{"code":"TS195.1","value":"Light Industry, Handicraft"}
+,{"code":"TS201.2","value":"Light Industry, Handicraft"}
+,{"code":"TS202.3","value":"Light Industry, Handicraft"}
+,{"code":"TS20-4","value":"Light Industry, Handicraft"}
+,{"code":"TS205","value":"Light Industry, Handicraft"}
+,{"code":"TS206","value":"Light Industry, Handicraft"}
+,{"code":"TS207.3","value":"Light Industry, Handicraft"}
+,{"code":"TS207.53","value":"Light Industry, Handicraft"}
+,{"code":"TS210.1","value":"Light Industry, Handicraft"}
+,{"code":"TS210.7","value":"Light Industry, Handicraft"}
+,{"code":"TS211.4","value":"Light Industry, Handicraft"}
+,{"code":"TS213.2","value":"Light Industry, Handicraft"}
+,{"code":"TS213.21","value":"Light Industry, Handicraft"}
+,{"code":"TS213.24","value":"Light Industry, Handicraft"}
+,{"code":"TS214.2","value":"Light Industry, Handicraft"}
+,{"code":"TS214.9","value":"Light Industry, Handicraft"}
+,{"code":"TS218","value":"Light Industry, Handicraft"}
+,{"code":"TS221","value":"Light Industry, Handicraft"}
+,{"code":"TS225.1","value":"Light Industry, Handicraft"}
+,{"code":"TS225.13","value":"Light Industry, Handicraft"}
+,{"code":"TS225.16","value":"Light Industry, Handicraft"}
+,{"code":"TS225.21","value":"Light Industry, Handicraft"}
+,{"code":"TS225.24","value":"Light Industry, Handicraft"}
+,{"code":"TS227","value":"Light Industry, Handicraft"}
+,{"code":"TS229","value":"Light Industry, Handicraft"}
+,{"code":"TS231","value":"Light Industry, Handicraft"}
+,{"code":"TS235.1","value":"Light Industry, Handicraft"}
+,{"code":"TS246.51","value":"Light Industry, Handicraft"}
+,{"code":"TS249.2","value":"Light Industry, Handicraft"}
+,{"code":"TS251.1","value":"Light Industry, Handicraft"}
+,{"code":"TS251.52","value":"Light Industry, Handicraft"}
+,{"code":"TS251.55","value":"Light Industry, Handicraft"}
+,{"code":"TS251.55","value":"Light Industry, Handicraft"}
+,{"code":"TS251.7","value":"Light Industry, Handicraft"}
+,{"code":"TS252.1","value":"Light Industry, Handicraft"}
+,{"code":"TS252.53","value":"Light Industry, Handicraft"}
+,{"code":"TS252.53","value":"Light Industry, Handicraft"}
+,{"code":"TS252.7","value":"Light Industry, Handicraft"}
+,{"code":"TS253.1","value":"Light Industry, Handicraft"}
+,{"code":"TS253.7","value":"Light Industry, Handicraft"}
+,{"code":"TS254.1","value":"Light Industry, Handicraft"}
+,{"code":"TS254.4","value":"Light Industry, Handicraft"}
+,{"code":"TS254.7","value":"Light Industry, Handicraft"}
+,{"code":"TS254.9","value":"Light Industry, Handicraft"}
+,{"code":"TS255.1","value":"Light Industry, Handicraft"}
+,{"code":"TS255.1","value":"Light Industry, Handicraft"}
+,{"code":"TS255.3","value":"Light Industry, Handicraft"}
+,{"code":"TS255.4","value":"Light Industry, Handicraft"}
+,{"code":"TS255.41","value":"Light Industry, Handicraft"}
+,{"code":"TS255.41","value":"Light Industry, Handicraft"}
+,{"code":"TS255.43","value":"Light Industry, Handicraft"}
+,{"code":"TS255.44","value":"Light Industry, Handicraft"}
+,{"code":"TS255.5","value":"Light Industry, Handicraft"}
+,{"code":"TS255.53","value":"Light Industry, Handicraft"}
+,{"code":"TS255.7","value":"Light Industry, Handicraft"}
+,{"code":"TS261.11","value":"Light Industry, Handicraft"}
+,{"code":"TS261.7","value":"Light Industry, Handicraft"}
+,{"code":"TS262.3","value":"Light Industry, Handicraft"}
+,{"code":"TS262.5","value":"Light Industry, Handicraft"}
+,{"code":"TS262.5","value":"Light Industry, Handicraft"}
+,{"code":"TS262.6","value":"Light Industry, Handicraft"}
+,{"code":"TS262.7","value":"Light Industry, Handicraft"}
+,{"code":"TS264","value":"Light Industry, Handicraft"}
+,{"code":"TS264.21","value":"Light Industry, Handicraft"}
+,{"code":"TS264.24","value":"Light Industry, Handicraft"}
+,{"code":"TS264.29","value":"Light Industry, Handicraft"}
+,{"code":"TS264.4","value":"Light Industry, Handicraft"}
+,{"code":"TS272.7","value":"Light Industry, Handicraft"}
+,{"code":"TS275","value":"Light Industry, Handicraft"}
+,{"code":"TS275.4","value":"Light Industry, Handicraft"}
+,{"code":"TS277","value":"Light Industry, Handicraft"}
+,{"code":"TS411","value":"Light Industry, Handicraft"}
+,{"code":"TS612","value":"Light Industry, Handicraft"}
+,{"code":"TS6-4","value":"Light Industry, Handicraft"}
+,{"code":"TS653.2","value":"Light Industry, Handicraft"}
+,{"code":"TS79","value":"Light Industry, Handicraft"}
+,{"code":"TS971","value":"Light Industry, Handicraft"}
+,{"code":"TU-098.4","value":"Construction Engineering"}
+,{"code":"TU17","value":"Construction Engineering"}
+,{"code":"TU209","value":"Construction Engineering"}
+,{"code":"TU238.2","value":"Construction Engineering"}
+,{"code":"TU241","value":"Construction Engineering"}
+,{"code":"TU311.2","value":"Construction Engineering"}
+,{"code":"TU312.1","value":"Construction Engineering"}
+,{"code":"TU323.4","value":"Construction Engineering"}
+,{"code":"TU447","value":"Construction Engineering"}
+,{"code":"TU476","value":"Construction Engineering"}
+,{"code":"TU528","value":"Construction Engineering"}
+,{"code":"TU578.1","value":"Construction Engineering"}
+,{"code":"TU71","value":"Construction Engineering"}
+,{"code":"TU712.3","value":"Construction Engineering"}
+,{"code":"TU731.2","value":"Construction Engineering"}
+,{"code":"TU746.3","value":"Construction Engineering"}
+,{"code":"TU753","value":"Construction Engineering"}
+,{"code":"TU755.7","value":"Construction Engineering"}
+,{"code":"TU761.11","value":"Construction Engineering"}
+,{"code":"TU761.12","value":"Construction Engineering"}
+,{"code":"TU767.3","value":"Construction Engineering"}
+,{"code":"TU-80","value":"Construction Engineering"}
+,{"code":"TU85","value":"Construction Engineering"}
+,{"code":"TU855","value":"Construction Engineering"}
+,{"code":"TU982.2","value":"Construction Engineering"}
+,{"code":"TU982.29","value":"Construction Engineering"}
+,{"code":"TU984.113","value":"Construction Engineering"}
+,{"code":"TU984.114","value":"Construction Engineering"}
+,{"code":"TU984.12","value":"Construction Engineering"}
+,{"code":"TU985","value":"Construction Engineering"}
+,{"code":"TU986","value":"Construction Engineering"}
+,{"code":"TU986.2","value":"Construction Engineering"}
+,{"code":"TU986.3","value":"Construction Engineering"}
+,{"code":"TU986.5","value":"Construction Engineering"}
+,{"code":"TU991","value":"Construction Engineering"}
+,{"code":"TU991.2","value":"Construction Engineering"}
+,{"code":"TU991.33","value":"Construction Engineering"}
+,{"code":"TU991-4","value":"Construction Engineering"}
+,{"code":"TU992","value":"Construction Engineering"}
+,{"code":"TU992-4","value":"Construction Engineering"}
+,{"code":"TU992.02","value":"Construction Engineering"}
+,{"code":"TU998.4","value":"Construction Engineering"}
+,{"code":"TV12","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV131.4","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV133","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV135.2","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV139.2","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV211.1","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV213.4","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV213.9","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV221.2","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV221.1","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV223","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV223.1","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV223.4","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV314","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV431","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV512","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV523","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV543.8","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV544","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV544.924","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV547.3","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV551.4","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV554","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV62","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV64","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV642.2","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV663.2","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV663.4","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV663.8","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV664.1","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV672.2","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV672.3","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV674","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV697.13","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV697.3","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV697.3","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV698.2","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV698.22","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV698.26","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV698.26","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV732.3","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV732.51","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV734","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV734.1","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV734.2","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV736","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV737","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV738","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV743","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV85","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV851","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV852","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV861","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV87","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV871","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV875","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV882.4","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"TV91","value":"Water Resources, Hydraulic Engineering"}
+,{"code":"U171","value":"General Transport"}
+,{"code":"U224","value":"Railway Transport"}
+,{"code":"U231.3","value":"Railway Transport"}
+,{"code":"U294.25","value":"Railway Transport"}
+,{"code":"U414","value":"Highway Transport"}
+,{"code":"U412.14","value":""}
+,{"code":"U415.1","value":"Highway Transport"}
+,{"code":"U416.2","value":"Highway Transport"}
+,{"code":"U418.52","value":"Highway Transport"}
+,{"code":"U418.52","value":"Highway Transport"}
+,{"code":"U446.3","value":"Highway Transport"}
+,{"code":"U448.11","value":"Highway Transport"}
+,{"code":"U454","value":"Highway Transport"}
+,{"code":"U455.4","value":"Highway Transport"}
+,{"code":"U455.49","value":"Highway Transport"}
+,{"code":"U457","value":"Highway Transport"}
+,{"code":"U458","value":"Highway Transport"}
+,{"code":"U461-4","value":"Highway Transport"}
+,{"code":"U463-4","value":"Highway Transport"}
+,{"code":"U463.211","value":"Highway Transport"}
+,{"code":"U463.212","value":"Highway Transport"}
+,{"code":"U463.212","value":"Highway Transport"}
+,{"code":"U463.218","value":"Highway Transport"}
+,{"code":"U463.44","value":"Highway Transport"}
+,{"code":"U463.6","value":"Highway Transport"}
+,{"code":"U463.6-4","value":"Highway Transport"}
+,{"code":"U464","value":"Highway Transport"}
+,{"code":"U467.14","value":"Highway Transport"}
+,{"code":"U467.48","value":"Highway Transport"}
+,{"code":"U472","value":"Highway Transport"}
+,{"code":"U473-65","value":"Highway Transport"}
+,{"code":"U491","value":"Highway Transport"}
+,{"code":"U495","value":"Highway Transport"}
+,{"code":"U656.2","value":"Marine Transport"}
+,{"code":"U661.311","value":"Marine Transport"}
+,{"code":"U664.72","value":"Marine Transport"}
+,{"code":"U655.4","value":"Marine Transport"}
+,{"code":"U674.35","value":"Marine Transport"}
+,{"code":"V216.5","value":"Aviation"}
+,{"code":"V243","value":"Aviation"}
+,{"code":"V416.5","value":"Aerospace (Spaceflight)"}
+,{"code":"X-01","value":"Environmental Science"}
+,{"code":"X13","value":"Fundamental Environmental Science"}
+,{"code":"X131.1","value":"Fundamental Environmental Science"}
+,{"code":"X131.2","value":"Fundamental Environmental Science"}
+,{"code":"X131.3","value":"Fundamental Environmental Science"}
+,{"code":"X132","value":"Fundamental Environmental Science"}
+,{"code":"X141","value":"Fundamental Environmental Science"}
+,{"code":"X171","value":"Fundamental Environmental Science"}
+,{"code":"X171.1","value":"Fundamental Environmental Science"}
+,{"code":"X171.4","value":"Fundamental Environmental Science"}
+,{"code":"X171.5","value":"Fundamental Environmental Science"}
+,{"code":"X172","value":"Fundamental Environmental Science"}
+,{"code":"X173","value":"Fundamental Environmental Science"}
+,{"code":"X174","value":"Fundamental Environmental Science"}
+,{"code":"X196","value":"Fundamental Environmental Science"}
+,{"code":"X2","value":"Environmental Research"}
+,{"code":"X24","value":"Environmental Research"}
+,{"code":"X26","value":"Environmental Research"}
+,{"code":"X321","value":"Environmental Protection and Management"}
+,{"code":"X322","value":"Environmental Protection and Management"}
+,{"code":"X324","value":"Environmental Protection and Management"}
+,{"code":"X37","value":"Environmental Protection and Management"}
+,{"code":"X4","value":"Disaster Protection"}
+,{"code":"X43","value":"Disaster Protection"}
+,{"code":"X502","value":"Pollution Control"}
+,{"code":"X507","value":"Pollution Control"}
+,{"code":"X51","value":"Pollution Control"}
+,{"code":"X511","value":"Pollution Control"}
+,{"code":"X512","value":"Pollution Control"}
+,{"code":"X513","value":"Pollution Control"}
+,{"code":"X52","value":"Pollution Control"}
+,{"code":"X522","value":"Pollution Control"}
+,{"code":"X523","value":"Pollution Control"}
+,{"code":"X524","value":"Pollution Control"}
+,{"code":"X53","value":"Pollution Control"}
+,{"code":"X55","value":"Pollution Control"}
+,{"code":"X592","value":"Pollution Control"}
+,{"code":"X-652","value":"Environmental Science"}
+,{"code":"X701","value":"Waste Management and Recycling"}
+,{"code":"X701.2","value":"Waste Management and Recycling"}
+,{"code":"X703","value":"Waste Management and Recycling"}
+,{"code":"X703.1","value":"Waste Management and Recycling"}
+,{"code":"X705","value":"Waste Management and Recycling"}
+,{"code":"X712","value":"Waste Management and Recycling"}
+,{"code":"X713","value":"Waste Management and Recycling"}
+,{"code":"X741","value":"Waste Management and Recycling"}
+,{"code":"X757","value":"Waste Management and Recycling"}
+,{"code":"X783","value":"Waste Management and Recycling"}
+,{"code":"X784","value":"Waste Management and Recycling"}
+,{"code":"X788","value":"Waste Management and Recycling"}
+,{"code":"X791","value":"Waste Management and Recycling"}
+,{"code":"X792","value":"Waste Management and Recycling"}
+,{"code":"X793","value":"Waste Management and Recycling"}
+,{"code":"X797","value":"Waste Management and Recycling"}
+,{"code":"X820.2","value":"Environmental Quality Monitoring"}
+,{"code":"X820.3","value":"Environmental Quality Monitoring"}
+,{"code":"X820.4","value":"Environmental Quality Monitoring"}
+,{"code":"X824","value":"Environmental Quality Monitoring"}
+,{"code":"X825","value":"Environmental Quality Monitoring"}
+,{"code":"X826","value":"Environmental Quality Monitoring"}
+,{"code":"X827","value":"Environmental Quality Monitoring"}
+,{"code":"X830","value":"Environmental Quality Monitoring"}
+,{"code":"X831","value":"Environmental Quality Monitoring"}
+,{"code":"X832","value":"Environmental Quality Monitoring"}
+,{"code":"X833","value":"Environmental Quality Monitoring"}
+,{"code":"X834","value":"Environmental Quality Monitoring"}
+,{"code":"X835","value":"Environmental Quality Monitoring"}
+,{"code":"X87","value":"Environmental Quality Monitoring"}
+,{"code":"X925","value":"Occupational safety and health"}
+,{"code":"X928.7","value":"Occupational safety and health"}
+]}

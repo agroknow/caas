@@ -7,15 +7,25 @@
 
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
 	<!-- <link rel="stylesheet/less" type="text/css" href="../css/style.less" /> -->
-	<link rel="stylesheet/less" type="text/css" href="../css/style.css" />
+	<link rel="stylesheet/less" type="text/css" href="../css/style.less" />
+
+	<!-- Page styles -->
+	<link type='text/css' href='../css/demo.css' rel='stylesheet' media='screen' />
+
+	<!-- Contact Form CSS files -->
+	<link type='text/css' href='../css/basic.css' rel='stylesheet' media='screen' />
+
 
 </head>
 
 <body>
 		<div id="header"></div>
-		<div class="breadcrumb"> 
+		<div class="breadcrumb">
 			<a href="index.html">Home</a> &gt; Search
 		</div>
+
+
+
 
 		<!-- Main div that contains the listing, the facets, the search field.
 			the pagination and the informative messages. -->
@@ -33,16 +43,34 @@
 	            <div id="facets" ng-show="enableFacets" ng-controller="facetsController">
 	            	<!-- active facets -->
 	            	<div class="facet_title">Available facets</div>
+
 	            	<div class="row" ng-repeat="facet in facets" >
 		            	<div class="parent">{{mapping['facets'][facet]}}</div> <!-- 'facet' is the actual facet name -->
 
 		            		<!-- 'facet' is the actual facet name and term.term is the machine name for the term -->
-			            	<a ng-repeat="term in inactiveFacets[0][facet.toString()].terms" class="child" href="javascript:;" ng-click="selectFacet(term.term, facet, term.count)">
+			            	<!--
+<a ng-repeat="term in inactiveFacets[0][facet.toString()].terms" class="child" href="javascript:;" ng-click="selectFacet(term.term, facet, term.count)">
 			            		<span class="value">{{ mapping[facet][term.term] || term.term }}</span>
 			            		<span class="count">{{ term.count }}</span>
 			            	</a>
+-->
 
-		            </div>
+			            	<!-- filter facets -->
+							<input ng-show="inactiveFacets[0][facet.toString()].terms.length>6" ng-model="filterJournals" placeholder="Filter {{mapping['facets'][facet]}}..." />
+
+							<div class="row facet_column">
+								<!-- 'facet' is the actual facet name and term.term is the machine name for the term -->
+					        	<a ng-repeat="term in journals = (inactiveFacets[0][facet.toString()].terms | filter:filterJournals)" class="child" href="javascript:;" ng-click="selectFacet(term.term, facet, term.count)">
+					        		<span class="value">{{ mapping[facet][term.term] || term.term }}</span>
+					        		<span class="count">{{ term.count }}</span>
+					        	</a>
+							</div>
+
+
+					</div>
+
+
+
 
 					<div><a class="reset_search" href="javascript:;" ng-click="resetLocation()">Clear Search</a></div>
 

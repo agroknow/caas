@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> CAAS </title>
+	<!-- INCLUDE REQUIRED THIRD PARTY LIBRARY JAVASCRIPT AND CSS -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
+	<!-- <link rel="stylesheet/less" type="text/css" href="../css/style.less" /> -->
+	<link rel="stylesheet/less" type="text/css" media="screen" href="../css/style.css" />
+</head>
+
+<body id="akListing" ng-app="akListing" ng-controller="mainController">
+
+<div id="landing_page_content" >
+	<div id="header"></div>
+
+	<form class="form-wrapper cf" action="search.html" method="GET">
+	    <input name="q" type="text" placeholder="Search here..." required>
+	    <button type="submit">Search</button>
+	</form>
+
+    <h4 class="title" >Featured Themes</h4>
+
+    <div class="row_of_three">
+	    <div class="item">
+		    <a href="search.html?controlled.classification.CCL=s6">
+		    	<img src="../assets/images/horticulture.png" />
+		    	<span>园艺</span> <!-- Horticulture -->
+		    </a>
+	    </div>
+	    <div class="item">
+		    <a href="search.html?controlled.classification.CCL=f3">
+		    	<img src="../assets/images/agro_economics.png" />
+		    	<span>农业经济</span> <!-- Agriculture Economics -->
+		    </a>
+	    </div>
+	    <div class="item">
+		    <a href="search.html?controlled.classification.CCL=x">
+		    	<img src="../assets/images/env_science.png" />
+		    	<span>环境科学、安全科学</span> <!-- Enviromental Science -->
+		    </a>
+	    </div>
+    </div>
+
+	<div class="row_of_two">
+		<div class="item">
+		    <a href="search.html?controlled.classification.CCL=tv">
+		    	<img src="../assets/images/hydraulic_engineering.png" />
+		    	<span> 水利工程 </span> <!-- Water Resources, Hydraulic Engineering -->
+		    </a>
+	    </div>
+	    <div class="item">
+		    <a href="search.html?controlled.classification.CCL=q">
+		    	<img src="../assets/images/life_science.png" />
+		    	<span>生物科学</span> <!-- Life Science -->
+		    </a>
+	    </div>
+
+	</div>
+</div>
+
+
+<!-- INCLUDE APPLICATION SPECIFIC CSS AND JAVASCRIPT -->
+<script type="text/javascript" src="../lib/angular.min.js"></script>
+<script src="../lib/less-1.5.0.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="../app/app.js"></script>
+<script type="text/javascript" src="../app/controllers/mainController.js"></script>
+
+</body>

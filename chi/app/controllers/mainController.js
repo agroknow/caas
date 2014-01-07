@@ -8,6 +8,7 @@
 listing.controller("mainController", function($rootScope, $scope, $http, $location, sharedProperties){
 
 	$scope.conf_file = '../config/conf.json';
+
 	var mappings_file = '../config/facets_mappings.json';
 
 	//variable to show and hide elements in ui
@@ -106,6 +107,19 @@ listing.controller("mainController", function($rootScope, $scope, $http, $locati
 	$scope.mapping = {};
 
 	/*-----------------------------------FUNCTIONS-----------------------------------*/
+	//Initialize User Interface Languages
+	$scope.init_finder = function() {
+		//store the mapping for human reading languages
+		$http.get(mappings_file).success(function(data) {
+	        for(i in data) { // i = providers, languages, etc...
+				$scope.mapping[i] = [];
+	        	for(j in data[i]) {
+	        		$scope.mapping[i][data[i][j].machine] = data[i][j].human;
+	        	}
+	        }
+	    });
+	};
+
 	//Initialize Finder's mappings
 	$scope.init_finder = function() {
 		//store the mapping for human reading languages
