@@ -4,6 +4,7 @@
 	<title> CAAS </title>
 	<!-- INCLUDE REQUIRED THIRD PARTY LIBRARY JAVASCRIPT AND CSS -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
 
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
 	<!-- <link rel="stylesheet/less" type="text/css" media="screen" href="../css/style.less" /> -->
@@ -13,13 +14,13 @@
 
 <body>
 		<div id="header"></div>
-		<div class="breadcrumb"> 
-			<a href="index.html">Home</a> &gt;<a href="javascript:history.back();"> Search </a> &gt; Item Info
+		<div class="breadcrumb">
+			<a href="index.html">首页</a> &gt;<a href="javascript:history.back();"> 搜索结果  </a> &gt; 项目信息
 		</div>
 
 		<form class="form-wrapper cf" action="search.html">
-	        <input name="q" type="text" placeholder="Search here..." required>
-	        <button type="submit">Search</button>
+	        <input name="q" type="text" placeholder="在这里搜索..." required>
+	        <button type="submit">搜索结果 </button>
 	    </form>
 
 
@@ -32,10 +33,10 @@
 	                    <!--<img src="style/images/copyright_sample.png" alt="image" />-->
 	                </header>
 	                <ul>
-						 <li><span class="label">Abstract : </span> <br> {{item_abstract}}</li>
-						 <li><span class="label">Citation : </span> <br> {{item_citation}}</li>
-						 <li><span class="label">Language: </span> <br> English </li>
-						 <li><span class="label">Keywords : </span> <br>
+						 <li><span class="label">抽象 : </span> <br> {{item_abstract}}</li>
+						 <li><span class="label">引用 : </span> <br> {{item_citation}}</li>
+						 <li><span class="label">语种: </span> <br> English </li>
+						 <li><span class="label">关键字 : </span> <br>
 						 	<a ng-repeat="keys in item_keywords" target="_self" href="search.html?q={{keys}}" >{{keys}}, </a>
 						 </li>
 					 </ul>
@@ -48,11 +49,11 @@
 	             <article id="left_sidebar" >
 					 <h3 id="more_info">More Info</h3>
 					 <ul>
-						 <li><span class="label">Creator: </span> <br> {{item_creators}} </li>
-						 <li><span class="label">Classification: </span> <br> 
+						 <li><span class="label">创造者: </span> <br> {{item_creators}} </li>
+						 <li><span class="label">分类: </span> <br>
 						 	<span ng-repeat="class in item_classification ">{{classif_mapping[class]}}, </span>
 						 </li>
-						 <li><span class="label">Pages: </span> <br> {{item_pages}} </li>
+						 <li><span class="label">总页数: </span> <br> {{item_pages}} </li>
 					 </ul>
 				</article>
 

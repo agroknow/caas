@@ -4,16 +4,11 @@
 	<title> CAAS </title>
 	<!-- INCLUDE REQUIRED THIRD PARTY LIBRARY JAVASCRIPT AND CSS -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
 
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
 	<!-- <link rel="stylesheet/less" type="text/css" href="../css/style.less" /> -->
 	<link rel="stylesheet/less" type="text/css" href="../css/style.less" />
-
-	<!-- Page styles -->
-	<link type='text/css' href='../css/demo.css' rel='stylesheet' media='screen' />
-
-	<!-- Contact Form CSS files -->
-	<link type='text/css' href='../css/basic.css' rel='stylesheet' media='screen' />
 
 
 </head>
@@ -21,7 +16,7 @@
 <body>
 		<div id="header"></div>
 		<div class="breadcrumb">
-			<a href="index.html">Home</a> &gt; Search
+			<a href="index.html">首页</a> &gt; 搜索结果
 		</div>
 
 
@@ -31,8 +26,8 @@
 			the pagination and the informative messages. -->
         <div id="akListing" ng-app="akListing" ng-controller="mainController" ng-init="init_finder()">
 			<form ng-submit="submit()" class="form-wrapper cf">
-		        <input ng-model="search_query" name="search_query" type="text" placeholder="Search here..." required>
-		        <button type="submit">Search</button>
+		        <input ng-model="search_query" name="search_query" type="text" placeholder="在这里搜索..." required>
+		        <button type="submit">搜索结果 </button>
 		    </form>
 
 			<a href="#" class="show_facets" ng-click="enableFacets = !enableFacets">{{show_hide[enableFacets]}} facets</a>

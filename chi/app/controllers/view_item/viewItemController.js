@@ -73,7 +73,7 @@ listing.controller("viewItemController", function($scope, $http, $location) {
 			//WE USE ONLY 'EN' FOR NOW
 			if ( thisJson.languageBlocks.en !== undefined ) {
 
-				languageBlock = thisJson.languageBlocks['en'];
+				languageBlock = thisJson.languageBlocks['cn'];
 
 				//TITLE
 				languageBlock.title !== undefined ? $scope.item_title = languageBlock.title : $scope.item_title = '-';
@@ -100,7 +100,7 @@ listing.controller("viewItemController", function($scope, $http, $location) {
 				thisJson.expressions[0].citation[0].ISSN ? $scope.item_citation += thisJson.expressions[0].citation[0].ISSN[0]+', ' : $scope.item_citation +='';
 				thisJson.expressions[0].citation[0].citationNumber ? $scope.item_citation += thisJson.expressions[0].citation[0].citationNumber[0]+', ' : $scope.item_citation +='';
 				thisJson.expressions[0].citation[0].citationChronology ? $scope.item_citation += thisJson.expressions[0].citation[0].citationChronology[0] : $scope.item_citation +='';
-				
+
 
 			} else {
 				$scope.item_citation = '-';
@@ -114,7 +114,7 @@ listing.controller("viewItemController", function($scope, $http, $location) {
 			console.log(thisJson.expressions[0].manifestations[0]);
 			//CREATOR
 			if( thisJson.creators ) {
-				$scope.item_creators = ''; 
+				$scope.item_creators = '';
 				for( i in thisJson.creators) {
 					$scope.item_creators += thisJson.creators[i].name;
 					if(i != thisJson.creators.length-1) {

@@ -1,123 +1,122 @@
 {"classification":[
- {"code":"A8","value":"Study and Research of Marxism, Leninism, Maoism & Deng Xiaoping Theory"}
-,{"code":"B1","value":"Philosophy (Worldwide)"}
-,{"code":"B8","value":"Cognitive science"}
-,{"code":"C9","value":"Sociology"}
-,{"code":"D0","value":"Political theory"}
-,{"code":"D2","value":"Communist Party of China"}
-,{"code":"D4","value":"Labor, Peasant, Youth, Female Organizations and Movements"}
-,{"code":"D5","value":"Politics (worldwide)"}
-,{"code":"D6","value":"Politics in China"}
-,{"code":"D7","value":"Politics in individual Countries"}
-,{"code":"D8","value":"Diplomacy, International relations"}
-,{"code":"D9","value":"Law"}
-,{"code":"E2","value":"Military in China"}
-,{"code":"E9","value":"Military Technology"}
-,{"code":"F0","value":"Economics"}
-,{"code":"F1","value":"Economics, Economic history and Economic geography of individual countries"}
-,{"code":"F2","value":"Economic Planning and Management"}
-,{"code":"F3","value":"Agricultural Economics"}
-,{"code":"F4","value":"Industrial Economics"}
-,{"code":"F5","value":"Economics of Transport"}
-,{"code":"F6","value":"Economics of Postal and Cable Services"}
-,{"code":"F7","value":"Economics of Commerce"}
-,{"code":"F8","value":"Finance, Banking"}
-,{"code":"G0","value":"Philosophy of Culture"}
-,{"code":"G1","value":"Culture"}
-,{"code":"G2","value":"Knowledge transmission"}
-,{"code":"G3","value":"Science, Scientific Research"}
-,{"code":"G4","value":"Education"}
-,{"code":"G5","value":"Education in individual Countries"}
-,{"code":"G6","value":"Education (Primary, Secondary, Tertiary)"}
-,{"code":"G6","value":"Education (Primary, Secondary, Tertiary)"}
-,{"code":"G7","value":"Education (specialized)"}
-,{"code":"G8","value":"Sports"}
-,{"code":"H0","value":"Linguistics"}
-,{"code":"H1","value":"Chinese language"}
-,{"code":"H3","value":"English language"}
-,{"code":"H3","value":"Japanese language"}
-,{"code":"I0","value":"Literary Theory"}
-,{"code":"I2","value":"Literature in China"}
-,{"code":"J4","value":"Photography"}
-,{"code":"J9","value":"Cinematography, Television"}
-,{"code":"K0","value":"Historical Theory"}
-,{"code":"K2","value":"History of China"}
-,{"code":"K8","value":"Biography, Archaeology"}
-,{"code":"K9","value":"Geography"}
-,{"code":"N0","value":"Theory and Methodology"}
-,{"code":"N9","value":"Minor Sciences"}
-,{"code":"O1","value":"Mathematics"}
-,{"code":"O2","value":"Applied Mathematics"}
-,{"code":"O3","value":"Mechanics"}
-,{"code":"O4","value":"Physics"}
-,{"code":"O5","value":"CLC-O5"}
-,{"code":"O6","value":"Chemistry"}
-,{"code":"P2","value":"Traditional Chinese Medicine"}
-,{"code":"P3","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
-,{"code":"P4","value":"Clinical Medicine"}
-,{"code":"P5","value":"Internal medicine"}
-,{"code":"P6","value":"Surgery"}
-,{"code":"P7","value":"Pediatrics"}
-,{"code":"P9","value":"Pharmacology, Pharmacy"}
-,{"code":"Q","value":"Life Science"}
-,{"code":"Q2","value":"Cytology"}
-,{"code":"Q3","value":"Genetics"}
-,{"code":"Q4","value":"Physiology"}
-,{"code":"Q5","value":"Biochemistry"}
-,{"code":"Q6","value":"Biophysics"}
-,{"code":"Q7","value":"Molecular Biology"}
-,{"code":"Q8","value":"Bioengineering"}
-,{"code":"Q9","value":"Zoology and Botany"}
-,{"code":"R-","value":"Medicine and Health Sciences"}
-,{"code":"R1","value":"Preventive Medicine, Public health"}
-,{"code":"R2","value":"Traditional Chinese Medicine"}
-,{"code":"R3","value":"Human anatomy, Physiology, Pathology, Microbiology, Parasitology"}
-,{"code":"R-","value":"Medicine and Health Sciences"}
-,{"code":"R4","value":"Clinical Medicine"}
-,{"code":"R5","value":"Internal medicine"}
-,{"code":"R6","value":"Surgery"}
+ {"code":"A8","value":"马克思主义、列宁主义、毛泽东思想、邓小平理论的学习和研究"}
+,{"code":"B1","value":"世界哲学"}
+,{"code":"B8","value":"思维科学"}
+,{"code":"C9","value":"社会学"}
+,{"code":"D0","value":"政治理论"}
+,{"code":"D2","value":"中国共产党"}
+,{"code":"D4","value":"工人、农民、青年、妇女运动与组织"}
+,{"code":"D5","value":"世界政治"}
+,{"code":"D6","value":"中国政治"}
+,{"code":"D7","value":"在个别国家的政治"}
+,{"code":"D8","value":"外交、国际关系"}
+,{"code":"D9","value":"法律"}
+,{"code":"E2","value":"中国军事"}
+,{"code":"E9","value":"军事技术"}
+,{"code":"F0","value":"经济学"}
+,{"code":"F1","value":"世界各国经济概况、经济史、经济地理"}
+,{"code":"F2","value":"经济计划与管理"}
+,{"code":"F3","value":"农业经济"}
+,{"code":"F4","value":"工业经济"}
+,{"code":"F5","value":"交通运输经济"}
+,{"code":"F6","value":"邮电经济"}
+,{"code":"F7","value":"贸易经济"}
+,{"code":"F8","value":"财政、金融"}
+,{"code":"G0","value":"文化理论"}
+,{"code":"G1","value":"世界各国文化与文化事业"}
+,{"code":"G2","value":"信息与知识传播"}
+,{"code":"G3","value":"科学、科学研究"}
+,{"code":"G4","value":"教育"}
+,{"code":"G5","value":"教育在个别国家"}
+,{"code":"G6","value":"教育（小学，中学，大专）"}
+,{"code":"G7","value":"职教、成教及其他教育"}
+,{"code":"G8","value":"体育"}
+,{"code":"H0","value":"语言学"}
+,{"code":"H1","value":"汉语"}
+,{"code":"H3","value":"英语"}
+,{"code":"H3","value":"日语"}
+,{"code":"I0","value":"文学理论"}
+,{"code":"I2","value":"中国文学"}
+,{"code":"J4","value":"摄影艺术"}
+,{"code":"J9","value":"电影、电视艺术"}
+,{"code":"K0","value":"史学理论"}
+,{"code":"K2","value":"中国历史"}
+,{"code":"K8","value":"传记, 考古学"}
+,{"code":"K9","value":"地理"}
+,{"code":"N0","value":"自然科学理论与方法论"}
+,{"code":"N9","value":"情报学、情报工作"}
+,{"code":"O1","value":"数学部分"}
+,{"code":"O2","value":"数学部分"}
+,{"code":"O3","value":"力学部分"}
+,{"code":"O4","value":"物理学部分"}
+,{"code":"O5","value":"物理学部分"}
+,{"code":"O6","value":"化学部分"}
+,{"code":"P2","value":"中医"}
+,{"code":"P3","value":"基础医学"}
+,{"code":"P4","value":"临床医学"}
+,{"code":"P5","value":"内科学"}
+,{"code":"P6","value":"外科学"}
+,{"code":"P7","value":"儿科学"}
+,{"code":"P9","value":"药学"}
+,{"code":"Q","value":"生物科学"}
+,{"code":"Q2","value":"细胞生物学"}
+,{"code":"Q3","value":"遗传学"}
+,{"code":"Q4","value":"生理学"}
+,{"code":"Q5","value":"生物化学"}
+,{"code":"Q6","value":"生物物理学"}
+,{"code":"Q7","value":"分子生物学"}
+,{"code":"Q8","value":"生物工程學"}
+,{"code":"Q9","value":"动物学和植物学"}
+,{"code":"R-","value":"医药、卫生"}
+,{"code":"R1","value":"预防医学、卫生学"}
+,{"code":"R2","value":"中医"}
+,{"code":"R3","value":"基础医学"}
+,{"code":"R-","value":"医药、卫生"}
+,{"code":"R4","value":"临床医学"}
+,{"code":"R5","value":"内科学"}
+,{"code":"R6","value":"外科学"}
 ,{"code":"R7","value":"Medical Specialties"}
-,{"code":"R8","value":"Radiology, Sport medicine, Diving medicine, Aerospace medicine"}
-,{"code":"R9","value":"Pharmacology, Pharmacy"}
-,{"code":"S-","value":"Agricultural Science"}
-,{"code":"S1","value":"Fundamental Agricultural Science"}
-,{"code":"S2","value":"Agricultural Engineering"}
-,{"code":"S3","value":"Agronomy"}
-,{"code":"S4","value":"Phytopathology"}
-,{"code":"S5","value":"Individual Crops"}
-,{"code":"S6","value":"Horticulture"}
-,{"code":"S7","value":"Forestry"}
-,{"code":"S8","value":"Animal Husbandry, Veterinary medicine, Hunting, Sericulture, Apiculture"}
-,{"code":"S9","value":"Aquaculture, Fishery"}
-,{"code":"TB","value":"General Industrial Technology"}
-,{"code":"TD","value":"Mining Engineering"}
-,{"code":"TE","value":"Petroleum, Natural Gas"}
-,{"code":"TG","value":"Metallurgy, Metalworking"}
-,{"code":"TH","value":"Metallurgy, Metalworking"}
-,{"code":"TK","value":"Power Plant"}
-,{"code":"TL","value":"Nuclear technology"}
-,{"code":"TM","value":"Electrical Engineering"}
-,{"code":"TN","value":"Electronic Engineering, Telecommunication Engineering"}
-,{"code":"TP","value":"Automation, Computer Engineering"}
-,{"code":"TQ","value":"Chemical Engineering"}
-,{"code":"TS","value":"Light Industry, Handicraft"}
-,{"code":"TU","value":"Construction Engineering"}
-,{"code":"TV","value":"Water Resources, Hydraulic Engineering"}
-,{"code":"U1","value":"General Transport"}
-,{"code":"U2","value":"Railway Transport"}
-,{"code":"U4","value":"Highway Transport"}
-,{"code":"U6","value":"Marine Transport"}
-,{"code":"V2","value":"Aviation"}
-,{"code":"V4","value":"Aerospace (Spaceflight)"}
-,{"code":"X-","value":"Environmental Science"}
-,{"code":"X1","value":"Fundamental Environmental Science"}
-,{"code":"X2","value":"Environmental Research"}
-,{"code":"X3","value":"Environmental Protection and Management"}
-,{"code":"X4","value":"Disaster Protection"}
-,{"code":"X5","value":"Pollution Control"}
-,{"code":"X","value":"Environmental Science"}
-,{"code":"X7","value":"Waste Management and Recycling"}
-,{"code":"X8","value":"Environmental Quality Monitoring"}
-,{"code":"X8","value":"Environmental Quality Monitoring"}
-,{"code":"X9","value":"Occupational safety and health"}
+,{"code":"R8","value":"放射医学"}
+,{"code":"R9","value":"药学"}
+,{"code":"S-","value":"农业科学"}
+,{"code":"S1","value":"农业基础科学"}
+,{"code":"S2","value":"农业工程"}
+,{"code":"S3","value":"农学（农艺学）"}
+,{"code":"S4","value":"植物保护"}
+,{"code":"S5","value":"农作物"}
+,{"code":"S6","value":"园艺"}
+,{"code":"S7","value":"林业"}
+,{"code":"S8","value":"畜牧、动物医学、狩猎、蚕、蜂"}
+,{"code":"S9","value":"水产、渔业"}
+,{"code":"TB","value":"一般工业技术"}
+,{"code":"TD","value":"矿业工程"}
+,{"code":"TE","value":"石油、天然气工业"}
+,{"code":"TG","value":"金属学与金属工艺"}
+,{"code":"TH","value":"金属学与金属工艺"}
+,{"code":"TK","value":"能源与动力工程"}
+,{"code":"TL","value":"原子能技术"}
+,{"code":"TM","value":"电工技术"}
+,{"code":"TN","value":"无线电电子学、电信技术"}
+,{"code":"TP","value":"自动化技术、计算机技术"}
+,{"code":"TQ","value":"化学工业"}
+,{"code":"TS","value":"轻工业、手工业"}
+,{"code":"TU","value":"建筑科学"}
+,{"code":"TV","value":"水资源, 水利工程"}
+,{"code":"U1","value":"综合运输"}
+,{"code":"U2","value":"铁路运输"}
+,{"code":"U4","value":"公路运输"}
+,{"code":"U6","value":"水路运输"}
+,{"code":"V2","value":"航空"}
+,{"code":"V4","value":"航天（宇宙航行）"}
+,{"code":"X-","value":"环境科学、安全科学"}
+,{"code":"X1","value":"环境科学基础理论"}
+,{"code":"X2","value":"环境保护管理"}
+,{"code":"X3","value":"环境综合研究"}
+,{"code":"X4","value":"灾害及其防治"}
+,{"code":"X5","value":"环境污染及其防治"}
+,{"code":"X","value":"环境科学、安全科学"}
+,{"code":"X7","value":"三废处理与综合利用"}
+,{"code":"X8","value":"环境质量评价与环境监测"}
+,{"code":"X8","value":"环境质量评价与环境监测"}
+,{"code":"X9","value":"安全科学"}
 ]}
