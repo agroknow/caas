@@ -12,8 +12,11 @@ listing.controller("viewItemController", function($scope, $http, $location) {
 	/*							  	GENERAL												  						     */
 	/*****************************************************************************************************************/
 
+	$scope.selectedLanguage='cn'; //en:English, cn:Chinese
+
 	var language_mapping=[], audience_mapping=[];
 	language_mapping['en'] = "English";
+	language_mapping['cn'] = "Chinese";
 
 	var classif_mapping_file = '../config/classification_mapping_min.json';
 	$scope.classif_mapping = []; // contains all the code mappings
@@ -73,7 +76,7 @@ listing.controller("viewItemController", function($scope, $http, $location) {
 			//WE USE ONLY 'EN' FOR NOW
 			if ( thisJson.languageBlocks.en !== undefined ) {
 
-				languageBlock = thisJson.languageBlocks['cn'];
+				languageBlock = thisJson.languageBlocks[$scope.selectedLanguage];
 
 				//TITLE
 				languageBlock.title !== undefined ? $scope.item_title = languageBlock.title : $scope.item_title = '-';
@@ -112,13 +115,19 @@ listing.controller("viewItemController", function($scope, $http, $location) {
 			//PAGES
 			thisJson.expressions[0].manifestations[0].size !== undefined ? $scope.item_pages = thisJson.expressions[0].manifestations[0].size : $scope.item_pages = '-';
 			console.log(thisJson.expressions[0].manifestations[0]);
+
 			//CREATOR
 			if( thisJson.creators ) {
 				$scope.item_creators = '';
 				for( i in thisJson.creators) {
-					$scope.item_creators += thisJson.creators[i].name;
-					if(i != thisJson.creators.length-1) {
-						$scope.item_creators += ', ';
+					//we get only creators in SELECTED LANGUAGE
+					if(thisJson.creators[i].identifier == $scope.selectedLanguage) {
+						$scope.item_creators += thisJson.creators[i].name;
+
+						//add commas
+						if(i != thisJson.creators.length-1) {
+							$scope.item_creators += ', ';
+						}
 					}
 				}
 			} else {

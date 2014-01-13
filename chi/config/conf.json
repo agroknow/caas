@@ -5,9 +5,6 @@
   "enablePaginationTop": false,
   "facets": [
     "expressions.citation.title",
-    "citationNumber",
-    "language",
-    "citationChronology",
     "controlled.classification.CCL"
   ],
   "limitPagination": 10,
@@ -21,6 +18,7 @@
   "selectedLanguage": "cn",
   "snippetElements": [
     "title",
-    "abstract"
+    "abstract",
+    "keywords"
   ]
 }

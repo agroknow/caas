@@ -37,7 +37,7 @@
 				<!-- <a ng-click="enableFacets=!enableFacets">Facets</a> -->
 	            <div id="facets" ng-show="enableFacets" ng-controller="facetsController">
 	            	<!-- active facets -->
-	            	<div class="facet_title">Available facets</div>
+	            	<div class="facet_title">可用的内容</div>
 
 	            	<div class="row" ng-repeat="facet in facets" >
 		            	<div class="parent">{{mapping['facets'][facet]}}</div> <!-- 'facet' is the actual facet name -->
@@ -55,7 +55,8 @@
 
 							<div class="row facet_column">
 								<!-- 'facet' is the actual facet name and term.term is the machine name for the term -->
-					        	<a ng-repeat="term in journals = (inactiveFacets[0][facet.toString()].terms | filter:filterJournals)" class="child" href="javascript:;" ng-click="selectFacet(term.term, facet, term.count)">
+					        	<a ng-repeat="term in journals = (inactiveFacets[0][facet.toString()].terms | filter:filterJournals)"
+					        		class="child" href="javascript:;" ng-click="selectFacet(term.term, facet, term.count)">
 					        		<span class="value">{{ mapping[facet][term.term] || term.term }}</span>
 					        		<span class="count">{{ term.count }}</span>
 					        	</a>
@@ -77,14 +78,14 @@
 				<div id="active_facets" ng-show="enableFacets" ng-controller="facetsController">
 					 <!-- active facets -->
 		             <div ng-show="enableFacets" class="facets row">
-		            	<div class="facet_title" >Active facets</div>
+		            	<div class="facet_title" >积极方面</div>
 		            	<div ng-repeat="links in activeFacets" >
 		            		<a href="javascript:;" ng-click="deselectFacet(links)">{{mapping[links.facet][links.term] || links.term}} <span class="remove_facet"> x </span></a>
 	            		</div>
 		            </div>
 	            </div>
 
-	           <h3 class="result_inform" >Search for "<span class="active">{{query.split("=")[1]}}</span>" returned total: <span class="active">{{total}} results</span></h3>
+	           <h3 class="result_inform" >搜索 "<span class="active">{{query.split("=")[1]}}</span>" 回到总: <span class="active">{{total}} 结果</span></h3>
 
 	            <!-- Top Pagination -->
 	            <div class="pagination" ng-controller="paginationController" ng-show="enablePaginationTop" ng-init="initPagination()" >
@@ -120,7 +121,8 @@
 		            	<li class="snippet" ng-repeat="result in filtered = (results | filter:filterResults) ">
 				            <b>题名:</b> &nbsp; {{result.title || "-"}}
 							<br> <b>抽象 :</b> &nbsp; {{result.abstract || "-" }}
-							<br> <a class="view_more" target="_self" href="item.html?set={{result.set}}&id={{result.id}}"> View More </a>
+							<br> <b>Keywords :</b> &nbsp; {{result.keywords|| "-" }}
+							<br> <a class="view_more" target="_self" href="item.html?set={{result.set}}&id={{result.id}}"> 查看更多 </a>
 			            </li>
 		            </ul>
 			</div>

@@ -103,6 +103,7 @@ listing.controller("listingController", function($rootScope, $scope, $http, $loc
 		*/
 		var query = $scope.akif + $rootScope.query + query_facets + query_active_facets + query_pagination + limitFacets + limitFacetsNumber;
 
+		console.log(query);
 		//add parameters to URL
 		//active facets
 		var activeFacetSplit = query_active_facets.split('&');
@@ -116,10 +117,14 @@ listing.controller("listingController", function($rootScope, $scope, $http, $loc
 
 	}
 
+	//function that makes the HTTP request based on the query created before
+	// 1. makes the call
+	// 2. add available facets in an array
+	// 3. for each result creates the snippet
 	$scope.search = function(query) {
 
 		$http.get(query).success(function(data) {
-			
+
 			/*Add facets*/
 			if($scope.enableFacets) {
 				$scope.inactiveFacets.length = 0;/*clear results*/
@@ -159,14 +164,18 @@ listing.controller("listingController", function($rootScope, $scope, $http, $loc
 	$scope.getSnippet = function(thisJson, snippet_elements)
 	{
 		var temp = "";
+		//checking SELECTED LANGUAGE && if TITLE is defined
 		if(thisJson.languageBlocks[$scope.selectedLanguage]!=undefined && thisJson.languageBlocks[$scope.selectedLanguage].title!=undefined)
 		{
 			var equals = "";
 			for(index in snippet_elements)
 			{
+				//if block for selected language exists
 				if(snippet_elements[index] in thisJson.languageBlocks[$scope.selectedLanguage])
 				{
-					if(thisJson.languageBlocks[$scope.selectedLanguage][snippet_elements[index]]!=null)
+
+					//if elements EXISTS && is NOT ARRAY
+					if(thisJson.languageBlocks[$scope.selectedLanguage][snippet_elements[index]]!=null && !(thisJson.languageBlocks[$scope.selectedLanguage][snippet_elements[index]] instanceof Array))
 					{
 						if(index!=0)
 						{
@@ -174,14 +183,27 @@ listing.controller("listingController", function($rootScope, $scope, $http, $loc
 						}
 						equals += "\"" + snippet_elements[index] + "\" : \"" + $scope.truncate(thisJson.languageBlocks[$scope.selectedLanguage][snippet_elements[index]], $scope.maxTextLength, ' ...').replace(/\"/g, "\\\"") + "\"";
 					}
+
+					//if elements EXISTS && IS ARRAY
+					if(thisJson.languageBlocks[$scope.selectedLanguage][snippet_elements[index]]!=null && (thisJson.languageBlocks[$scope.selectedLanguage][snippet_elements[index]] instanceof Array))
+					{
+						if(index!=0)
+						{
+							equals+= ",";
+						}
+						equals += "\"" + snippet_elements[index] + "\" : \"" + $scope.truncate(thisJson.languageBlocks[$scope.selectedLanguage][snippet_elements[index]][0], $scope.maxTextLength, ' ...').replace(/\"/g, "\\\"") + "\"";
+					}
 				}
 			}
 
 			//WE MUST HAVE ID & SET IN ORDER TO VIEW ITEM
+
+			//ID
 			if(thisJson.identifier) {
 				equals += '\ , "id\" : \"' + thisJson.identifier + '\"';
 			}
 
+			//SET
 			if(thisJson.set) {
 				equals += '\ , "set\" : \"' + thisJson.set + '\"';
 			}

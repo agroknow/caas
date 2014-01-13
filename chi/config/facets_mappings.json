@@ -69,7 +69,7 @@
       "machine": "f2"
     },
     {
-      "human": "Agricultural Economics",
+      "human": "农业经济",
       "machine": "f3"
     },
     {
@@ -241,7 +241,7 @@
       "machine": "p9"
     },
     {
-      "human": "Life Science",
+      "human": "生物科学",
       "machine": "q"
     },
     {
@@ -345,7 +345,7 @@
       "machine": "s5"
     },
     {
-      "human": "Horticulture",
+      "human": "园艺",
       "machine": "s6"
     },
     {
@@ -413,7 +413,7 @@
       "machine": "tu"
     },
     {
-      "human": "Water Resources, Hydraulic Engineering",
+      "human": "水利工程",
       "machine": "tv"
     },
     {
@@ -441,7 +441,7 @@
       "machine": "v4"
     },
     {
-      "human": "Environmental Science",
+      "human": "环境科学",
       "machine": "x-"
     },
     {
@@ -465,7 +465,7 @@
       "machine": "x5"
     },
     {
-      "human": "Environmental Science",
+      "human": "环境科学",
       "machine": "x"
     },
     {
@@ -577,6 +577,10 @@
     {
       "human": "English",
       "machine": "en"
+    },
+    {
+      "human": "Chinese",
+      "machine": "cn"
     },
     {
       "human": "English",
